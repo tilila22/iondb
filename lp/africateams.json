@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "الأهلي المصري",
+    "votes": "4.3k+",
+    "nVotes": "1.1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F02.jpg?alt=media&token=4e0335d2-a65a-4860-b4e6-8d83c7c13885"
+  },
+  {
+    "id": 2,
+    "name": "وفاق سطيف",
+    "votes": "3.7k+",
+    "nVotes": "2.8k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F07.jpg?alt=media&token=726d2da3-20ba-455a-85d2-f08ba868c153"
+  },
+  {
+    "id": 3,
+    "name": "الوداد الرياضي",
+    "votes": "3.1k+",
+    "nVotes": "2.9k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F09.jpg?alt=media&token=ce5a11d2-6274-4e16-a66c-d7c86c1c8df9"
+  },
+  {
+    "id": 4,
+    "name": "الترجي الرياضي",
+    "votes": "2.5k+",
+    "nVotes": "2.2k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F01.jpg?alt=media&token=548707a6-6c61-4e61-96be-1ae0cb39fb54"
+  },
+  {
+    "id": 5,
+    "name": "مولودية الجزائر",
+    "votes": "1.4k+",
+    "nVotes": "880-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F06.jpg?alt=media&token=589f20ed-7860-400a-b5f5-ab633c1251b6"
+  },
+  {
+    "id": 6,
+    "name": "النجم الساحلي",
+    "votes": "1k+",
+    "nVotes": "1.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F13.jpg?alt=media&token=df63c4e8-13cc-4cf2-999b-4e89a64013f1"
+  },
+  {
+    "id": 7,
+    "name": "مازيمبي",
+    "votes": "354+",
+    "nVotes": "3.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F05.jpg?alt=media&token=e031738b-164c-4543-a1a8-3341f68303ec"
+  },
+  {
+    "id": 8,
+    "name": "دفاع الجديدي",
+    "votes": "987+",
+    "nVotes": "9k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F08.jpg?alt=media&token=8f52c676-3ce3-4958-ac9a-8e0d0218549a"
+  },
+  {
+    "id": 9,
+    "name": "حوريا كوناكري",
+    "votes": "800+",
+    "nVotes": "1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F11.jpg?alt=media&token=5be4cdaf-cacd-47bf-8fb1-27bea13e741b"
+  },
+  {
+    "id": 10,
+    "name": "كامبالا سيتي",
+    "votes": "500+",
+    "nVotes": "5k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F04.jpg?alt=media&token=42385d53-955f-409f-82a3-3e3690e1a86c"
+  },
+  {
+    "id": 11,
+    "name": "ديسبورتيفو دي أجوستو",
+    "votes": "100+",
+    "nVotes": "6.9-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F14.jpg?alt=media&token=ed1be2f7-7b9f-4f75-970a-433c5f36848f"
+  },
+  {
+    "id": 12,
+    "name": "ماميلودي صنداونز",
+    "votes": "200+",
+    "nVotes": "10.1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F10.jpg?alt=media&token=9ad953a7-8455-4173-836e-f0a43407b909"
+  },
+  {
+    "id": 13,
+    "name": "مبابان سوالوز",
+    "votes": "10+",
+    "nVotes": "-11k",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F15.jpg?alt=media&token=3159aa70-d3d9-4106-9bcc-4fa2d742c208"
+  },
+  {
+    "id": 14,
+    "name": "تاونشيب رولرز",
+    "votes": "10+",
+    "nVotes": "2.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F03.jpg?alt=media&token=d26bba9a-b695-492b-b6d3-66fe3a639580"
+  },
+  {
+    "id": 15,
+    "name": "توجو بورت",
+    "votes": "10+",
+    "nVotes": "7.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/africa_teams%2F12.jpg?alt=media&token=4fdff1b6-ad39-48cd-95cb-04775d0a50f5"
+  }
+]
