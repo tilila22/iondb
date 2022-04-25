@@ -14,7 +14,7 @@
             "answer":"No"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":2,
@@ -90,7 +90,7 @@
             "answer":"Yes"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":6,
@@ -351,7 +351,7 @@
    },
    {
       "id":19,
-      "question":"Does being a transgender the same thing as bein intersex?",
+      "question":"Does being a transgender the same thing as being intersex?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
