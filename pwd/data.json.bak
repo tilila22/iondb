@@ -19,7 +19,7 @@
    {
       "id":2,
       "question":"Can you identify This Transgender Girl?",
-      "ads":true,
+      "hasimg":true,
       "img":"bailyjay.jpg",
       "choices":[
          {
@@ -57,7 +57,7 @@
    {
       "id":4,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+      "hasimg":true,
       "img":"eva.jpg",
       "choices":[
          {
@@ -95,7 +95,7 @@
    {
       "id":6,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+      "hasimg":true,
       "img":"janemarie.jpg",
       "choices":[
          {
@@ -133,7 +133,7 @@
    {
       "id":8,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+      "hasimg":true,
       "img":"jessydubai.jpg",
       "choices":[
          {
@@ -171,7 +171,7 @@
    {
       "id":10,
       "question":"Can you identify This Transgender Girl?",
-      "ads":true,
+      "hasimg":true,
       "img":"kiti.jpg",
       "choices":[
          {
@@ -213,7 +213,7 @@
    {
       "id":12,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+      "hasimg":true,
       "img":"lane.jpg",
       "choices":[
          {
@@ -251,7 +251,7 @@
    {
       "id":14,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+       "hasimg":true,
       "img":"natalie.jpg",
       "choices":[
          {
@@ -293,7 +293,7 @@
    {
       "id":16,
       "question":"Can you identify This Transgender Girl?",
-      "ads":true,
+      "hasimg":true,
       "img":"nina.jpg",
       "choices":[
          {
@@ -331,7 +331,7 @@
    {
       "id":18,
       "question":"Can you identify This Transgender Girl?",
-      "ads":true,
+      "hasimg":true,
       "img":"chelsea.jpg",
       "choices":[
          {
@@ -369,7 +369,7 @@
    {
       "id":20,
       "question":"Can you identify This Transgender Girl?",
-      "ads":false,
+      "hasimg":true,
       "img":"mia.jpg",
       "choices":[
          {
