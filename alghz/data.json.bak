@@ -1,126 +1,102 @@
 [
    {
       "id":1,
-      "question":"_________",
+      "question":"عندما تفكر في حبيبك أنت",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/mlsekderqmrmnotkapspfocoredbebct.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"البحر"
+            "answer":"تحاول التحديق بشيء بعيد او بالفراغ"
          },
          {
             "id":2,
-            "answer":"الحمار"
-         },
-         {
-            "id":3,
-            "answer":"الرافعة"
+            "answer":"لا يوجد علاقة بين التحديق والتفكير بالحبيب"
          }
       ],
       "answer":1
    },
    {
       "id":2,
-      "question":"question2",
+      "question":"هل تشعر بأنك تستطيع الاعتماد على حبيبك في كل شيء ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/obetftbrtqcbnsrqbabkpmdabmdqodfb.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"الأستاذ"
+            "answer":"ليس كل شيء"
          },
          {
             "id":2,
-            "answer":"القلم"
-         },
-         {
-            "id":3,
-            "answer":"الهاتف"
-         }
-      ],
-      "answer":2
-   },
-   {
-      "id":3,
-      "question":"question3",
-      "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ldbkossatdckntcdafrpfmrcrafbpeos.jpeg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"البيض"
-         },
-         {
-            "id":2,
-            "answer":"الثلج"
-         },
-         {
-            "id":3,
-            "answer":"البطاطس"
+            "answer":"نعم"
          }
       ],
       "answer":1
    },
    {
-      "id":4,
-      "question":"question4",
+      "id":3,
+      "question":"كيف تشعر عندما تكون بجانبه ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ckmlacnrclpanffkakdpaedecfbtlcse.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"الحمار"
+            "answer":"بالضعف والارتجاف"
          },
          {
             "id":2,
-            "answer":"الفيل"
-         },
-         {
-            "id":3,
-            "answer":"وحيد القرن"
+            "answer":"بالنشاط والحيوية"
          }
       ],
       "answer":2
+   },
+   {
+      "id":4,
+      "question":"هل انت مستعد لمشاركة ممتلكاتك مع حبيبك ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لكل منا ممتلكاته الخاصة"
+         }
+      ],
+      "answer":1
    },
    {
       "id":5,
-      "question":"question5",
+      "question":"هل تشعر بالوحدة عندما لا يكون بجانبك ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/cqtdttdbqdfnnlqeapmkolammblaqkbb.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"المنزل"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"الحفرة"
-         },
-         {
-            "id":3,
-            "answer":"الكعكة"
+            "answer":" لا"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":6,
-      "question":"question6",
+      "question":"هل تفقد شهيتك للطعام عندما تفكر به ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/nrfsqdfddaornqqlbrtafseftcqdrpsk.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"بيت المال"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"بيت الشعر"
-         },
-         {
-            "id":3,
-            "answer":"بيت المسجد"
+            "answer":"لا"
          }
       ],
       "answer":2
@@ -129,126 +105,238 @@
       "id":7,
       "question":"question7",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ofaaaqlatakbndmtbcnmprksakpsktko.jpeg",
+      "img":"هل تفقد التركيز في الاشياء عندما تفكر به ؟",
       "choices":[
          {
             "id":1,
-            "answer":"عقرب الساعة"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"عقرب الصحراء"
-         },
-         {
-            "id":3,
-            "answer":"عقرب الغابة"
-         }
-      ],
-      "answer":1
-   },
-   {
-      "id":8,
-      "question":"question8",
-      "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/pcflqtfbmcslnlfkbcasrkpnkpomdoeq.jpeg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"السيارة"
-         },
-         {
-            "id":2,
-            "answer":"الاسم"
-         },
-         {
-            "id":3,
-            "answer":"النقود"
+            "answer":"لا"
          }
       ],
       "answer":2
    },
    {
-      "id":9,
-      "question":"question9",
+      "id":8,
+      "question":"هل تشعر أن القدر هو الذي جمعك به ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/qmscpmrnantancbtrbntnmsafratdoct.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"المركبة"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"الطريق"
+            "answer":"لا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":9,
+      "question":"هل تحسب كلماتك وتخشى ان تقول اي شيء خاطىء عندما تكون معه ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
          },
          {
-            "id":3,
-            "answer":"الهاتف"
+            "id":2,
+            "answer":"لا"
          }
       ],
       "answer":2
    },
    {
       "id":10,
-      "question":"question10",
+      "question":"هل تشعر انه يعرف كل شيء عنك ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/pnalsbqesqdknaqmrqcsesfsflkcpcmp.jpeg",
+      "img":"",
       "choices":[
-         {
+          {
             "id":1,
-            "answer":"عطار"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"جزار"
-         },
-         {
-            "id":3,
-            "answer":"خياط"
+            "answer":"لا"
          }
       ],
       "answer":1
    },
    {
       "id":11,
-      "question":"question11",
+      "question":"هل تتمنى فعلا ان لا تنتهي مشاعرك اتجاهه ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/lottblbbcoacnfrqsmbekrblckmpepet.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"يفتح عينيه"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"يغسل وجهه"
-         },
-         {
-            "id":3,
-            "answer":"يشرب الماء"
+            "answer":"لا"
          }
       ],
       "answer":1
    },
    {
       "id":12,
-      "question":"question12",
+      "question":"هل تتعرق يداك عندما تكون بجانبه ؟",
       "hasimg":false,
-      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/todsatkffqaandlespmkppndatlldmqe.jpeg",
+      "img":"",
       "choices":[
          {
             "id":1,
-            "answer":"الببغاء"
+            "answer":"نعم"
          },
          {
             "id":2,
-            "answer":"التمثال"
-         },
-         {
-            "id":3,
-            "answer":"نبات"
+            "answer":"لا"
          }
       ],
-      "answer":3
+      "answer":2
+   },
+   {
+      "id":13,
+      "question":"هل تشعر بشيء من الترابط العاطفي بينك وبينه ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":14,
+      "question":"هل تشعر بالتوتر عندما تكون بجانبه ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":15,
+      "question":"هل تشعر بانه يمكنه ان يجعلك سعيدا مهما كنت حزينا ومستاءا ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":16,
+      "question":"هل تشعر بالارق وعدم القدرة على النوم لانك تفكر به ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":17,
+      "question":"هل تحاول دائما البحث عن تفسيرات لكل كلمة يقولها لك ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":18,
+      "question":"هل تشعر بانه اكثر شيء يشعرك بالسعادة ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":19,
+      "question":"__________",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":20,
+      "question":"__________",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم"
+         },
+         {
+            "id":2,
+            "answer":"لا"
+         }
+      ],
+      "answer":2
    }
 ]
