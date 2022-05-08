@@ -307,7 +307,7 @@
    },
    {
       "id":19,
-      "question":"__________",
+      "question":"هل هو جزء مهم في كل مخططاتك للمستقبل ؟",
       "hasimg":false,
       "img":"",
       "choices":[
@@ -320,11 +320,11 @@
             "answer":"لا"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":20,
-      "question":"__________",
+      "question":"هل تشعر بالخجل اثناء وجوده معك ؟",
       "hasimg":false,
       "img":"",
       "choices":[
