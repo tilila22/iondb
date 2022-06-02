@@ -1,0 +1,296 @@
+[
+   {
+      "id":0,
+      "question":"The 'New Slide' command on the Ribbon lets you choose ________.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"slide dimensions"
+         },
+         {
+            "id":2,
+            "answer":"transitions"
+         },
+         {
+            "id":3,
+            "answer":"slide layouts"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":1,
+      "question":"Most slide layouts include at least one ________ by default.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"transition"
+         },
+         {
+            "id":2,
+            "answer":"placeholder"
+         },
+         {
+            "id":3,
+            "answer":"animation"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":2,
+      "question":"In this image, we are clicking a button on the Quick Access Toolbar. What will happen after we click it?",
+      "hasimg":true,
+      "img":"powerpoint_clickbutton.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"The Animation Pane will open"
+         },
+         {
+            "id":2,
+            "answer":"The presentation will be saved"
+         },
+         {
+            "id":3,
+            "answer":"The presentation will start from the beginning"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":3,
+      "question":"Suppose you're sharing a presentation with several coworkers, but you're not sure if they all have PowerPoint. What's the best way to ensure everyone will still be able to view your presentation?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Save as a Rich Text File"
+         },
+         {
+            "id":2,
+            "answer":"Describe each slide over the phone"
+         },
+         {
+            "id":3,
+            "answer":"Export as a PDF"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":4,
+      "question":"In this image, which feature did we most likely use to quickly change the background, fonts, and layout?",
+      "hasimg":true,
+      "img":"powerpoint_zen.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"AutoLayout"
+         },
+         {
+            "id":2,
+            "answer":"Themes"
+         },
+         {
+            "id":3,
+            "answer":"Transitions"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":5,
+      "question":"What do the icons in this image represent?",
+      "hasimg":true,
+      "img":"powerpoint_emphasis.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Theme colors"
+         },
+         {
+            "id":2,
+            "answer":"Animations"
+         },
+         {
+            "id":3,
+            "answer":"Slide layouts"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":6,
+      "question":"What can you do in the Animation Pane?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Preview effects"
+         },
+         {
+            "id":2,
+            "answer":"Print the presentation"
+         },
+         {
+            "id":3,
+            "answer":"Share the presentation"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":7,
+      "question":"What is a motion path?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"A feature that controls the timing of an animation"
+         },
+         {
+            "id":2,
+            "answer":"A feature that lets you trim a video"
+         },
+         {
+            "id":3,
+            "answer":"An animation that moves an object along a path"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":8,
+      "question":"The photos in this example are not evenly spaced. Which feature could we use to fix this?",
+      "hasimg":false,
+      "img":"powerpoint_spacing.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Align center"
+         },
+         {
+            "id":2,
+            "answer":"Distribute horizontally"
+         },
+         {
+            "id":3,
+            "answer":"Distribute vertically"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":9,
+      "question":"True or False: You can set up a presentation to run automatically.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         },
+         {
+            "id":3,
+            "answer":"I don't know"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":10,
+      "question":"What does this image demonstrate?",
+      "hasimg":true,
+      "img":"powerpointgif.gif",
+      "choices":[
+         {
+            "id":1,
+            "answer":"An animation applied to an object"
+         },
+         {
+            "id":2,
+            "answer":"A transition applied to a slide"
+         },
+         {
+            "id":3,
+            "answer":"Slide sorter view"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":11,
+      "question":"If you add background music and want it to continue playing for the entire presentation, which feature should you use?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Play across slides"
+         },
+         {
+            "id":2,
+            "answer":"Trim audio"
+         },
+         {
+            "id":3,
+            "answer":"Rewind after playing"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":12,
+      "question":"Let's say you want to add a company logo to the bottom-right corner of every slide. What's the most efficient way to do this?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Insert the logo on the Slide Master"
+         },
+         {
+            "id":2,
+            "answer":"Insert the logo once, copy it, then paste it to the other slides"
+         },
+         {
+            "id":3,
+            "answer":"Use the pen tool to draw the logo"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":13,
+      "question":"True or False: You can add action buttons in Slide Master view. ",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         },
+         {
+            "id":3,
+            "answer":"I don't know"
+         }
+      ],
+      "answer":1
+   }
+]
