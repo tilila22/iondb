@@ -1,0 +1,254 @@
+[
+   {
+      "id":1,
+      "question":"_________",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/mlsekderqmrmnotkapspfocoredbebct.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"The selective acquisition of knowledge through the use of manual programs."
+         },
+         {
+            "id":2,
+            "answer":"Independent acquisition of knowledge through the use of computer programs."
+         },
+         {
+            "id":3,
+            "answer":"Independent acquisition of knowledge through the use of manual programs"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":2,
+      "question":"question2",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/obetftbrtqcbnsrqbabkpmdabmdqodfb.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Machine Learning (ML) is a field of computer science."
+         },
+         {
+            "id":2,
+            "answer":"Machine learning is a type of artificial intelligence that extracts patterns from raw data using an algorithm or method."
+         },
+         {
+            "id":3,
+            "answer":"All answers are true"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":3,
+      "question":"question3",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ldbkossatdckntcdafrpfmrcrafbpeos.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Improve their performance"
+         },
+         {
+            "id":2,
+            "answer":"In the execution of a task"
+         },
+         {
+            "id":3,
+            "answer":"All answers are true"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":4,
+      "question":"question4",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ckmlacnrclpanffkakdpaedecfbtlcse.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Anomaly recognition"
+         },
+         {
+            "id":2,
+            "answer":"In the execution of a task"
+         },
+         {
+            "id":3,
+            "answer":"Prediction"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":5,
+      "question":"question5",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/cqtdttdbqdfnnlqeapmkolammblaqkbb.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Artificial intelligence"
+         },
+         {
+            "id":2,
+            "answer":"Data mining"
+         },
+         {
+            "id":3,
+            "answer":"Internet of Things"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":6,
+      "question":"question6",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/nrfsqdfddaornqqlbrtafseftcqdrpsk.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Teach data"
+         },
+         {
+            "id":2,
+            "answer":"Data transfer"
+         },
+         {
+            "id":3,
+            "answer":"Data formation"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":7,
+      "question":"question7",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/ofaaaqlatakbndmtbcnmprksakpsktko.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Deep Learning"
+         },
+         {
+            "id":2,
+            "answer":"Big data"
+         },
+         {
+            "id":3,
+            "answer":"Artificial intelligence"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":8,
+      "question":"question8",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/pcflqtfbmcslnlfkbcasrkpnkpomdoeq.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Geoffrey Hinson"
+         },
+         {
+            "id":2,
+            "answer":"Geoffrey Everest Hinton"
+         },
+         {
+            "id":3,
+            "answer":"Gregoit Hill"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":9,
+      "question":"question9",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/qmscpmrnantancbtrbntnmsafratdoct.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"المركبة"
+         },
+         {
+            "id":2,
+            "answer":"الطريق"
+         },
+         {
+            "id":3,
+            "answer":"الهاتف"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":10,
+      "question":"question10",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/pnalsbqesqdknaqmrqcsesfsflkcpcmp.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"عطار"
+         },
+         {
+            "id":2,
+            "answer":"جزار"
+         },
+         {
+            "id":3,
+            "answer":"خياط"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":11,
+      "question":"question11",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/lottblbbcoacnfrqsmbekrblckmpepet.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"يفتح عينيه"
+         },
+         {
+            "id":2,
+            "answer":"يغسل وجهه"
+         },
+         {
+            "id":3,
+            "answer":"يشرب الماء"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":12,
+      "question":"question12",
+      "hasimg":false,
+      "img":"https://storage.googleapis.com/ninja_storage/apps/f49da516-e4ec-48c9-b846-df18f5a4b489/content/v1/todsatkffqaandlespmkppndatlldmqe.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تمثال"
+         },
+         {
+            "id":2,
+            "answer":"ببغاء"
+         },
+         {
+            "id":3,
+            "answer":"نبات"
+         }
+      ],
+      "answer":3
+   }
+]
