@@ -1,0 +1,212 @@
+[
+   {
+      "id":0,
+      "question":"Select one of the main objects that comprise an Access database.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Forms"
+         },
+         {
+            "id":2,
+            "answer":"charts"
+         },
+         {
+            "id":3,
+            "answer":"Placeholders"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":1,
+      "question":"Access is generally used to work with ________ databases.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"non-relational"
+         },
+         {
+            "id":2,
+            "answer":"relational"
+         },
+         {
+            "id":3,
+            "answer":"single-row"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":2,
+      "question":"True or False: In order to save changes to a database, you must save the objects individually.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         },
+         {
+            "id":3,
+            "answer":"None"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":3,
+      "question":"Let's say our bakery wants to create a list of customer names and email addresses for customers who pre-ordered an item and picked it up during the month of December. The tables needed for the query are shown in this image. Aside from First Name and Last Name, what fields must be added to the query? Select all that apply.",
+      "hasimg":true,
+      "img":"access_query_tables.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Email,Pickup Date, Pre Order"
+         },
+         {
+            "id":2,
+            "answer":"Email,Pickup Date, City"
+         },
+         {
+            "id":3,
+            "answer":"State, Last Name, Zip Code"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":4,
+      "question":"Which of the following best describes a query?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Data resulting from questions you ask of one or more tables"
+         },
+         {
+            "id":2,
+            "answer":"A formatted summary of data suitable for printing"
+         },
+         {
+            "id":3,
+            "answer":"A user-friendly interface for entering and viewing data"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":5,
+      "question":"True or False: Access only allows one sort per query.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         },
+         {
+            "id":3,
+            "answer":"None"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":6,
+      "question":"Suppose you created the query shown in this image, but later you realize that you really wanted to find the total number of cakes sold instead of cookies. What is the best way to solve this problem?",
+      "hasimg":true,
+      "img":"access_query_cookies.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Delete the query and re-create it"
+         },
+         {
+            "id":2,
+            "answer":"Edit the table relationships"
+         },
+         {
+            "id":3,
+            "answer":"Switch to Design View and edit the criteria"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":7,
+      "question":"Suppose you run a query, and a dialog box appears asking you to enter a date. You are most likely working with a ________ query.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"date & time"
+         },
+         {
+            "id":2,
+            "answer":"parameter"
+         },
+         {
+            "id":3,
+            "answer":"dialog"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":8,
+      "question":"Why would you want to create a report?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Reports allow you to present tables and query results in an easy-to-read format"
+         },
+         {
+            "id":2,
+            "answer":"Reports make it easy to add records to a table"
+         },
+         {
+            "id":3,
+            "answer":"Reports allow you to export a table as an Excel file"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":9,
+      "question":"If you create a form from a table with records that are linked to another table, the form will automatically include a ________.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"subform"
+         },
+         {
+            "id":2,
+            "answer":"button"
+         },
+         {
+            "id":3,
+            "answer":"query"
+         }
+      ],
+      "answer":1
+   }
+]
