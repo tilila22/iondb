@@ -1,0 +1,212 @@
+[
+   {
+      "id":1,
+      "question":"_________",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/01.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"The selective acquisition of knowledge through the use of manual programs."
+         },
+         {
+            "id":2,
+            "answer":"Independent acquisition of knowledge through the use of computer programs."
+         },
+         {
+            "id":3,
+            "answer":"Independent acquisition of knowledge through the use of manual programs"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":2,
+      "question":"question2",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/02.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Machine Learning (ML) is a field of computer science."
+         },
+         {
+            "id":2,
+            "answer":"Machine learning is a type of artificial intelligence that extracts patterns from raw data using an algorithm or method."
+         },
+         {
+            "id":3,
+            "answer":"All answers are true"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":3,
+      "question":"question3",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/03.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Improve their performance"
+         },
+         {
+            "id":2,
+            "answer":"In the execution of a task"
+         },
+         {
+            "id":3,
+            "answer":"All answers are true"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":4,
+      "question":"question4",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/04.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Anomaly recognition"
+         },
+         {
+            "id":2,
+            "answer":"In the execution of a task"
+         },
+         {
+            "id":3,
+            "answer":"Prediction"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":5,
+      "question":"question5",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/05.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Artificial intelligence"
+         },
+         {
+            "id":2,
+            "answer":"Data mining"
+         },
+         {
+            "id":3,
+            "answer":"Internet of Things"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":6,
+      "question":"question6",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/06.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Teach data"
+         },
+         {
+            "id":2,
+            "answer":"Data transfer"
+         },
+         {
+            "id":3,
+            "answer":"Data formation"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":7,
+      "question":"question7",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/07.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Deep Learning"
+         },
+         {
+            "id":2,
+            "answer":"Big data"
+         },
+         {
+            "id":3,
+            "answer":"Artificial intelligence"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":8,
+      "question":"question8",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/08.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Geoffrey Hinson"
+         },
+         {
+            "id":2,
+            "answer":"Geoffrey Everest Hinton"
+         },
+         {
+            "id":3,
+            "answer":"Gregoit Hill"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":9,
+      "question":"question9",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/09.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Machine Learning"
+         },
+         {
+            "id":2,
+            "answer":"Data mining"
+         },
+         {
+            "id":3,
+            "answer":"Deep Learning"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":10,
+      "question":"question10",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/10.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Supervised learning"
+         },
+         {
+            "id":2,
+            "answer":"Unsupervised learning"
+         },
+         {
+            "id":3,
+            "answer":"All answers are true"
+         }
+      ],
+      "answer":3
+   }
+]
