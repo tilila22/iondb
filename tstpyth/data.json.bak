@@ -3,103 +3,103 @@
       "id":1,
       "question":"_________",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/01.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/01.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"The selective acquisition of knowledge through the use of manual programs."
+            "answer":"machine"
          },
          {
             "id":2,
-            "answer":"Independent acquisition of knowledge through the use of computer programs."
+            "answer":"compiled"
          },
          {
             "id":3,
-            "answer":"Independent acquisition of knowledge through the use of manual programs"
+            "answer":"binary"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":2,
       "question":"question2",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/02.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/02.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Machine Learning (ML) is a field of computer science."
+            "answer":"str(x)"
          },
          {
             "id":2,
-            "answer":"Machine learning is a type of artificial intelligence that extracts patterns from raw data using an algorithm or method."
+            "answer":"float(x)"
          },
          {
             "id":3,
-            "answer":"All answers are true"
-         }
-      ],
-      "answer":3
-   },
-   {
-      "id":3,
-      "question":"question3",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/03.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"Improve their performance"
-         },
-         {
-            "id":2,
-            "answer":"In the execution of a task"
-         },
-         {
-            "id":3,
-            "answer":"All answers are true"
-         }
-      ],
-      "answer":3
-   },
-   {
-      "id":4,
-      "question":"question4",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/04.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"Anomaly recognition"
-         },
-         {
-            "id":2,
-            "answer":"In the execution of a task"
-         },
-         {
-            "id":3,
-            "answer":"Prediction"
+            "answer":"long(x [,base] )"
          }
       ],
       "answer":2
    },
    {
-      "id":5,
-      "question":"question5",
+      "id":3,
+      "question":"question3",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/05.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/03.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Artificial intelligence"
+            "answer":"Whole division"
          },
          {
             "id":2,
-            "answer":"Data mining"
+            "answer":"Returns the remainder"
          },
          {
             "id":3,
-            "answer":"Internet of Things"
+            "answer":"Division of float by zero"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":4,
+      "question":"question4",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/04.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"capitalize()"
+         },
+         {
+            "id":2,
+            "answer":"shuffle(lst)"
+         },
+         {
+            "id":3,
+            "answer":"isalnum()"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":5,
+      "question":"question5",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/05.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"char"
+         },
+         {
+            "id":2,
+            "answer":"python has no data type for characters, they are treated as strings."
+         },
+         {
+            "id":3,
+            "answer":"character"
          }
       ],
       "answer":2
@@ -108,19 +108,19 @@
       "id":6,
       "question":"question6",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/06.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/06.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Teach data"
+            "answer":"cmp(list1, list2)"
          },
          {
             "id":2,
-            "answer":"Data transfer"
+            "answer":"eq(list1, list2)"
          },
          {
             "id":3,
-            "answer":"Data formation"
+            "answer":"only ( sheet1, sheet2 )"
          }
       ],
       "answer":1
@@ -129,19 +129,19 @@
       "id":7,
       "question":"question7",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/07.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/07.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Deep Learning"
+            "answer":"lower()"
          },
          {
             "id":2,
-            "answer":"Big data"
+            "answer":"lstrip()"
          },
          {
             "id":3,
-            "answer":"Artificial intelligence"
+            "answer":"min(str)"
          }
       ],
       "answer":3
@@ -150,19 +150,19 @@
       "id":8,
       "question":"question8",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/08.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/08.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Geoffrey Hinson"
+            "answer":"fopen(file_name, mode)"
          },
          {
             "id":2,
-            "answer":"Geoffrey Everest Hinton"
+            "answer":"open(file_name, mode)"
          },
          {
             "id":3,
-            "answer":"Gregoit Hill"
+            "answer":"open_file(file_name, mode)"
          }
       ],
       "answer":2
@@ -171,19 +171,19 @@
       "id":9,
       "question":"question9",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/09.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/09.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Machine Learning"
+            "answer":"def"
          },
          {
             "id":2,
-            "answer":"Data mining"
+            "answer":"function"
          },
          {
             "id":3,
-            "answer":"Deep Learning"
+            "answer":"fun"
          }
       ],
       "answer":1
@@ -192,7 +192,7 @@
       "id":10,
       "question":"question10",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstml/imgs/10.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/10.jpg",
       "choices":[
          {
             "id":1,
