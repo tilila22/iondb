@@ -24,7 +24,7 @@
       "id":2,
       "question":"question2",
       "hasimg":false,
-      "img":"https://raw.github.com/tilila22/iondb/blob/main/kinana/imgs/02.jpeg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/kinana/imgs/02.jpeg",
       "choices":[
          {
             "id":1,
