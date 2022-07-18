@@ -219,5 +219,22 @@
          }
       ],
       "answer":1
+   },
+   {
+      "id":14,
+      "question":"Other examples of gender-neutral pronouns are zie/zim/zer and sie/sie/hir.",
+      "hasimg":true,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/kinana/imgs/14.jpeg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"TRUE"
+         },
+         {
+            "id":2,
+            "answer":"FALSE"
+         }
+      ],
+      "answer":1
    }
 ]
