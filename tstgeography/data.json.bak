@@ -3,82 +3,82 @@
       "id":1,
       "question":"_________",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/01.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/01.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"machine"
+            "answer":"الهند"
          },
          {
             "id":2,
-            "answer":"compiled"
+            "answer":"الصين"
          },
          {
             "id":3,
-            "answer":"binary"
-         }
-      ],
-      "answer":1
-   },
-   {
-      "id":2,
-      "question":"question2",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/02.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"str(x)"
-         },
-         {
-            "id":2,
-            "answer":"float(x)"
-         },
-         {
-            "id":3,
-            "answer":"long(x [,base] )"
+            "answer":"أمريكا"
          }
       ],
       "answer":2
    },
    {
-      "id":3,
-      "question":"question3",
+      "id":2,
+      "question":"question2",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/03.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/02.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Whole division"
+            "answer":"النيل"
          },
          {
             "id":2,
-            "answer":"Returns the remainder"
+            "answer":"الأمازون"
          },
          {
             "id":3,
-            "answer":"Division of float by zero"
+            "answer":"اليانغتسى"
          }
       ],
       "answer":1
    },
    {
-      "id":4,
-      "question":"question4",
+      "id":3,
+      "question":"question3",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/04.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/03.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"capitalize()"
+            "answer":"تيخوانا"
          },
          {
             "id":2,
-            "answer":"shuffle(lst)"
+            "answer":"المكسيك"
          },
          {
             "id":3,
-            "answer":"isalnum()"
+            "answer":"ليون"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":4,
+      "question":"question4",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/04.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أمريكا"
+         },
+         {
+            "id":2,
+            "answer":"الصين"
+         },
+         {
+            "id":3,
+            "answer":"روسيا"
          }
       ],
       "answer":3
@@ -87,19 +87,19 @@
       "id":5,
       "question":"question5",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/05.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/05.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"char"
+            "answer":"المكسيك"
          },
          {
             "id":2,
-            "answer":"python has no data type for characters, they are treated as strings."
+            "answer":"مصر"
          },
          {
             "id":3,
-            "answer":"character"
+            "answer":"بيرو"
          }
       ],
       "answer":2
@@ -108,70 +108,70 @@
       "id":6,
       "question":"question6",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/06.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/06.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"cmp(list1, list2)"
+            "answer":"لوس أنجلوس"
          },
          {
             "id":2,
-            "answer":"eq(list1, list2)"
+            "answer":"سان فرانسيسكو"
          },
          {
             "id":3,
-            "answer":"only ( sheet1, sheet2 )"
-         }
-      ],
-      "answer":1
-   },
-   {
-      "id":7,
-      "question":"question7",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/07.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"lower()"
-         },
-         {
-            "id":2,
-            "answer":"lstrip()"
-         },
-         {
-            "id":3,
-            "answer":"min(str)"
+            "answer":"ساكرامنتو"
          }
       ],
       "answer":3
    },
    {
-      "id":8,
-      "question":"question8",
+      "id":7,
+      "question":"question7",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/08.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/07.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"fopen(file_name, mode)"
+            "answer":"كندا"
          },
          {
             "id":2,
-            "answer":"open(file_name, mode)"
+            "answer":"فنلندا"
          },
          {
             "id":3,
-            "answer":"open_file(file_name, mode)"
+            "answer":"النرويج"
          }
       ],
       "answer":2
    },
    {
+      "id":8,
+      "question":"question8",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/08.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"48"
+         },
+         {
+            "id":2,
+            "answer":"50"
+         },
+         {
+            "id":3,
+            "answer":"52"
+         }
+      ],
+      "answer":3
+   },
+   {
       "id":9,
       "question":"question9",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/09.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/09.jpg",
       "choices":[
          {
             "id":1,
@@ -192,7 +192,7 @@
       "id":10,
       "question":"question10",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstpyth/imgs/10.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/tstgeography/imgs/10.jpg",
       "choices":[
          {
             "id":1,

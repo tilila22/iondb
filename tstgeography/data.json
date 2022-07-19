@@ -7,18 +7,18 @@
       "choices":[
          {
             "id":1,
-            "answer":"machine"
+            "answer":"الهند"
          },
          {
             "id":2,
-            "answer":"compiled"
+            "answer":"الصين"
          },
          {
             "id":3,
-            "answer":"binary"
+            "answer":"أمريكا"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":2,
@@ -28,18 +28,18 @@
       "choices":[
          {
             "id":1,
-            "answer":"str(x)"
+            "answer":"النيل"
          },
          {
             "id":2,
-            "answer":"float(x)"
+            "answer":"الأمازون"
          },
          {
             "id":3,
-            "answer":"long(x [,base] )"
+            "answer":"اليانغتسى"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":3,
@@ -49,18 +49,18 @@
       "choices":[
          {
             "id":1,
-            "answer":"Whole division"
+            "answer":"تيخوانا"
          },
          {
             "id":2,
-            "answer":"Returns the remainder"
+            "answer":"المكسيك"
          },
          {
             "id":3,
-            "answer":"Division of float by zero"
+            "answer":"ليون"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":4,
@@ -70,15 +70,15 @@
       "choices":[
          {
             "id":1,
-            "answer":"capitalize()"
+            "answer":"أمريكا"
          },
          {
             "id":2,
-            "answer":"shuffle(lst)"
+            "answer":"الصين"
          },
          {
             "id":3,
-            "answer":"isalnum()"
+            "answer":"روسيا"
          }
       ],
       "answer":3
@@ -91,15 +91,15 @@
       "choices":[
          {
             "id":1,
-            "answer":"char"
+            "answer":"المكسيك"
          },
          {
             "id":2,
-            "answer":"python has no data type for characters, they are treated as strings."
+            "answer":"مصر"
          },
          {
             "id":3,
-            "answer":"character"
+            "answer":"بيرو"
          }
       ],
       "answer":2
@@ -112,18 +112,18 @@
       "choices":[
          {
             "id":1,
-            "answer":"cmp(list1, list2)"
+            "answer":"لوس أنجلوس"
          },
          {
             "id":2,
-            "answer":"eq(list1, list2)"
+            "answer":"سان فرانسيسكو"
          },
          {
             "id":3,
-            "answer":"only ( sheet1, sheet2 )"
+            "answer":"ساكرامنتو"
          }
       ],
-      "answer":1
+      "answer":3
    },
    {
       "id":7,
@@ -133,18 +133,18 @@
       "choices":[
          {
             "id":1,
-            "answer":"lower()"
+            "answer":"كندا"
          },
          {
             "id":2,
-            "answer":"lstrip()"
+            "answer":"فنلندا"
          },
          {
             "id":3,
-            "answer":"min(str)"
+            "answer":"النرويج"
          }
       ],
-      "answer":3
+      "answer":2
    },
    {
       "id":8,
@@ -154,15 +154,15 @@
       "choices":[
          {
             "id":1,
-            "answer":"fopen(file_name, mode)"
+            "answer":"48"
          },
          {
             "id":2,
-            "answer":"open(file_name, mode)"
+            "answer":"50"
          },
          {
             "id":3,
-            "answer":"open_file(file_name, mode)"
+            "answer":"52"
          }
       ],
       "answer":2
@@ -175,15 +175,15 @@
       "choices":[
          {
             "id":1,
-            "answer":"def"
+            "answer":"أوهايو"
          },
          {
             "id":2,
-            "answer":"function"
+            "answer":"ألاسكا"
          },
          {
             "id":3,
-            "answer":"fun"
+            "answer":"أريزونا"
          }
       ],
       "answer":1
@@ -196,17 +196,17 @@
       "choices":[
          {
             "id":1,
-            "answer":"is"
+            "answer":"1"
          },
          {
             "id":2,
-            "answer":"**"
+            "answer":"2"
          },
          {
             "id":3,
-            "answer":"not in"
+            "answer":"3"
          }
       ],
-      "answer":3
+      "answer":2
    }
 ]
