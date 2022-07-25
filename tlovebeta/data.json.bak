@@ -1,0 +1,50 @@
+{
+"appSetting":{
+		"language":"ar"
+		},
+"admobAds":{
+		"active":"ON",
+		"bannerUnit":"",
+		"InterstitialUnit":"",
+		},
+"unityAds":{
+		"active":"OFF",
+		"InterstitialUnit":"",
+		},
+"data":[
+   {
+      "id":1,
+      "question":"عندما تفكر في حبيبك أنت",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تحاول التحديق بشيء بعيد او بالفراغ"
+         },
+         {
+            "id":2,
+            "answer":"لا يوجد علاقة بين التحديق والتفكير بالحبيب"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":2,
+      "question":"هل تشعر بأنك تستطيع الاعتماد على حبيبك في كل شيء ؟",
+      "hasimg":false,
+      "img":"",
+      "choices":[
+         {
+            "id":1,
+            "answer":"ليس كل شيء"
+         },
+         {
+            "id":2,
+            "answer":"نعم"
+         }
+      ],
+      "answer":1
+   }
+]
+}
