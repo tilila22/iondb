@@ -1,0 +1,31 @@
+[
+	{
+	  "name":"LGBT True/False",
+	  "androidId":"com.kritiqapps.transgenderstrueorfalse",
+      "iosId":"00000",
+	  "imgUrl":"https://play-lh.googleusercontent.com/VHoVhySmiWnz2uMmo7B5U8fRVtFEoVqecWq1IR07WN0Z0_WbQnFDNJ1PQTkRFIoOrXQ=w240-h480",
+
+	},
+	{
+	  "name":"Quiz of Trans",
+	  "androidId":"com.kritiqapps.quizoftrans",
+      "iosId":"00000",
+	  "imgUrl":"https://play-lh.googleusercontent.com/fKhFGTGQGest2neLEKN3id3KPVlDFjeiquXCirJ0Jj2DQ8z9p8-m8gARMKY-O37u7Q=w240-h480",
+
+	},
+	{
+	  "name":"Natalie's Big Quiz",
+	  "androidId":"com.kritiqapps.pwnatalie",
+      "iosId":"00000",
+	  "imgUrl":"https://play-lh.googleusercontent.com/KOr5_DJiPkcBQtOdTFHGtr5AS-p-hWTAMAM3erJu8QJ0bd8bmwgBff26H_TNCRZ-M_U=w240-h480",
+
+	},
+	{
+	  "name":"Daisy Transgender Game",
+	  "androidId":"com.kritiqapps.pwd",
+      "iosId":"00000",
+	  "imgUrl":"https://play-lh.googleusercontent.com/dUt0b9_4w7T2OJ7a8Z0GBqqdR0sUQbawiLGHs0UB2-MoynoaSCL6oaLRYC3RkNtCakg=w240-h480",
+
+	}
+	
+]
