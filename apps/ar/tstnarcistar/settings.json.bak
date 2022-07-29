@@ -1,11 +1,11 @@
 [
-	{
+   {
       "language":"ar",
-	  "promoteApps": true,      
-	  "isAdmobActive":false,
-      "admobBannerUnit":"",
+      "promoteApps":true,
+      "isAdmobActive":true,
+      "admobBannerUnit":"ca-app-pub-3940256099942544/6300978111",
       "admobInterstitialUnit":"",
-	  "isUnityActive":false,
+      "isUnityActive":false,
       "unityInterstitialUnit":""
-	}
+   }
 ]
