@@ -1,7 +1,7 @@
 {
    "appSetting":{
       "language":"ar",
-	  "promoteApps": true
+	  "promoteApps": false
    },
    "admobAds":{
       "active":"OFF",
