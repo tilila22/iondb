@@ -1,18 +1,4 @@
-{
-   "appSetting":{
-      "language":"ar",
-	  "promoteApps": false
-   },
-   "admobAds":{
-      "active":"OFF",
-      "bannerUnit":"",
-      "InterstitialUnit":""
-   },
-   "unityAds":{
-      "active":"OFF",
-      "InterstitialUnit":""
-   },
-   "questions":[
+[
    {
       "id":1,
       "question":"هل انت شخص شديد الغرور بنفسك وتمتاز بحساسية مفرطة تجاه من ينتقدك؟",
@@ -119,4 +105,3 @@
       "answer":2
    }
 ]
-   }
