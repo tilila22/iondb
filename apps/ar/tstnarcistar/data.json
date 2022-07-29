@@ -1,10 +1,10 @@
 {
    "appSetting":{
       "language":"ar",
-	  "promoteApps": true,
+	  "promoteApps": true
    },
    "admobAds":{
-      "active":"ON",
+      "active":"OFF",
       "bannerUnit":"",
       "InterstitialUnit":""
    },
