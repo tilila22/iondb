@@ -1,0 +1,11 @@
+[
+   {
+      "language":"ar",
+      "promoteApps":true,
+      "isAdmobActive":false,
+      "admobBannerUnit":"",
+      "admobInterstitialUnit":"",
+      "isUnityActive":false,
+      "unityInterstitialUnit":""
+   }
+]
