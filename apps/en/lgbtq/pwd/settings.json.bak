@@ -5,7 +5,7 @@
       "isAdmobActive":false,
       "admobBannerUnit":"",
       "admobInterstitialUnit":"",
-      "isUnityActive":true,
+      "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
 ]
