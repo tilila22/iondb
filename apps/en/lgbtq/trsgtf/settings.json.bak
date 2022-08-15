@@ -4,7 +4,7 @@
       "promoteApps":true,
       "isAdmobActive":false,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"",
+      "admobInterstitialUnit":"a-app-pub-8767412980966430/7812907536",
       "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
