@@ -379,21 +379,21 @@
    },
    {
       "id":19,
-      "question":"The more of this there is, the less you see. What is it?",
+      "question":"Does being a transgender the same thing as being intersex?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Darkness"
+            "answer":"No, it isn't"
          },
          {
             "id":2,
-            "answer":"Brightness"
+            "answer":"Yes, it is"
          },
 		 {
             "id":3,
-            "answer":"Ocean"
+            "answer":"I don't know"
          }
       ],
       "answer":1
