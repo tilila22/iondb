@@ -1,241 +1,418 @@
 [
    {
       "id":1,
-      "question":"Being gay is a choice.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/01.jpg",
-	  
+      "question":"Is Being a Transgender Person Considered a Disorder?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Yes"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"No"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":2
    },
    {
       "id":2,
-      "question":"Each episode of LGBT victimization, such as physical or verbal harassment or abuse,increases the likelihood of self-harming behavior by 2.5 times on average.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/02.jpg",
+      "img":"bailyjay.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Chanel Santini"
          },
          {
             "id":2,
-            "answer":"FALSE"
-         }
-      ],
-      "answer":1
-   },
-   {
-      "id":3,
-      "question":"Same-sex parents hurt children.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/03.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"TRUE"
+            "answer":"Baily Jay"
          },
          {
-            "id":2,
-            "answer":"FALSE"
+            "id":3,
+            "answer":"Jessy Dubai"
          }
       ],
       "answer":2
    },
    {
-      "id":4,
-      "question":"Straight privilege exists and is still present today.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/04.jpg",
+      "id":3,
+      "question":"Are There Transgender Children?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Yes"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"No"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":4,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"eva.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Eva Lin"
+         },
+         {
+            "id":2,
+            "answer":"Shiri Allwood"
+         },
+         {
+            "id":3,
+            "answer":"Barbie Woods"
          }
       ],
       "answer":1
    },
    {
       "id":5,
-      "question":"An individual can be transgender without undergoing hormones and/or surgery.",
+      "question":"Do All Transgender People Have Surgery?",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/05.jpg",
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"No"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Yes"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":6,
-      "question":"Same sex couples are more likely to contract sexually transmitted diseases.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/06.jpg",
+      "img":"janemarie.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Sabrina Campos"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Jane Marie"
+         },
+         {
+            "id":3,
+            "answer":"Lexie Beth"
          }
       ],
       "answer":2
    },
    {
       "id":7,
-      "question":"Individuals who are gender non-conforming have to go by they/them pronouns.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/07.jpg",
+      "question":"What does hormone therapy do?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Bring bodies more in line, gender identity."
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Change skin color"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":1
    },
    {
       "id":8,
-      "question":"42% of LGBT people report living in an unwelcoming environment.",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/08.jpg",
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"jessydubai.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Jessi Martinez"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Jessy Dubai"
+         },
+         {
+            "id":3,
+            "answer":"Jessica Versace"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":9,
-      "question":"In June of 2015, same sex marriage became legal in all states in the US.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/09.jpg",
+      "question":"What makes someone trans?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"a disconnect between their gender and their assigned sex"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"wearing women clothes"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":10,
-      "question":"Gay conversion therapy is a viable way of becoming straight.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/10.jpg",
+      "img":"kiti.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Kitty Kaiti"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Kitty Doll"
+         },
+         {
+            "id":3,
+            "answer":"Korra Del Rio"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":11,
-      "question":"People of the LGBTQ+ community have mental issues that cause their sexuality or gender identity.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/11.jpg",
+      "question":"How should I react when someone comes out as trans?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Quit the conversation"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Guilt them"
+         },
+         {
+            "id":3,
+            "answer":"Be supportive"
          }
       ],
-      "answer":2
+      "answer":3
    },
    {
       "id":12,
-      "question":"People who are bisexual are 50% gay and 50% straight.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/12.jpg",
+      "img":"lane.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Annalise Rose"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Evie Eliot"
+         },
+         {
+            "id":3,
+            "answer":"Annabelle Lane"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":13,
+      "question":"Can you be trans and gay?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"No"
+         },
+         {
+            "id":2,
+            "answer":"Yes"
          }
       ],
       "answer":2
    },
    {
-      "id":13,
-      "question":"LGB Youth are almost 5 times as likely to have attempted suicide than heterosexual youth.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/13.jpg",
+      "id":14,
+      "question":"Can you identify This Transgender Girl?",
+       "hasimg":true,
+      "img":"natalie.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Natalie Mars"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Naomi Chi"
+         },
+         {
+            "id":3,
+            "answer":"Nathany Gomes"
          }
       ],
       "answer":1
    },
    {
-      "id":14,
-      "question":"Other examples of gender-neutral pronouns are zie/zim/zer and sie/sie/hir.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/14.jpg",
+      "id":15,
+      "question":"How do I know if someone is trans?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Their voice"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Their face shape"
+         },
+         {
+            "id":3,
+            "answer":"Tells you they are trans"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":16,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"nina.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Fernanda Barros"
+         },
+         {
+            "id":2,
+            "answer":"Nina Lawless"
+         },
+         {
+            "id":3,
+            "answer":"Nody Nadia"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":17,
+      "question":"Is transgender equality important?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Yes, it is"
+         },
+         {
+            "id":2,
+            "answer":"No, it isn't"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":1
+   },
+   {
+      "id":18,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"chelsea.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Morgan Bailey"
+         },
+         {
+            "id":2,
+            "answer":"Fernanda Cristine"
+         },
+         {
+            "id":3,
+            "answer":"Chelsea Marie"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":19,
+      "question":"Does being a transgender the same thing as being intersex?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"No, it isn't"
+         },
+         {
+            "id":2,
+            "answer":"Yes, it is"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":20,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"mia.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Mia Maffia"
+         },
+         {
+            "id":2,
+            "answer":"Sasha Strokes"
+         },
+         {
+            "id":3,
+            "answer":"Mia Isabella"
+         }
+      ],
+      "answer":3
    }
 ]
