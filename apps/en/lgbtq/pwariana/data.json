@@ -1,21 +1,21 @@
 [
    {
       "id":1,
-      "question":"Is Being a Transgender Person Considered a Disorder?",
+      "question":"Three simple words, but life changing. What are they?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Yes"
+            "answer":"I miss you"
          },
          {
             "id":2,
-            "answer":"No"
+            "answer":"I love you"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"One Two Three"
          }
       ],
       "answer":2
@@ -43,21 +43,21 @@
    },
    {
       "id":3,
-      "question":"Are There Transgender Children?",
+      "question":"How can you fall without getting hurt?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Yes"
+            "answer":"If you fall in LOVE!"
          },
          {
             "id":2,
-            "answer":"No"
+            "answer":"If you fall in SEA!"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"If you fall From Plane!"
          }
       ],
       "answer":1
@@ -85,24 +85,24 @@
    },
    {
       "id":5,
-      "question":"Do All Transgender People Have Surgery?",
+      "question":"The more you take, the more you leave behind. What am I?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No"
+            "answer":"Money"
          },
          {
             "id":2,
-            "answer":"Yes"
+            "answer":"Footsteps"
          },
 		 {
             "id":3,
             "answer":"I don't know"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":6,
@@ -169,21 +169,21 @@
    },
    {
       "id":9,
-      "question":"What makes someone trans?",
+      "question":"What has a head, a tail, is brown, and has no legs?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"a disconnect between their gender and their assigned sex"
+            "answer":"A Penny"
          },
          {
             "id":2,
-            "answer":"wearing women clothes"
+            "answer":"A Lonely"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"A Skinny"
          }
       ],
       "answer":1
@@ -211,21 +211,21 @@
    },
    {
       "id":11,
-      "question":"How should I react when someone comes out as trans?",
+      "question":"David's father has three sons: Snap, Crackle, and _____?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Quit the conversation"
+            "answer":"Doe"
          },
          {
             "id":2,
-            "answer":"Guilt them"
+            "answer":"Snap"
          },
          {
             "id":3,
-            "answer":"Be supportive"
+            "answer":"David"
          }
       ],
       "answer":3
@@ -253,17 +253,21 @@
    },
    {
       "id":13,
-      "question":"Can you be trans and gay?",
+      "question":"What comes once in a minute, twice in a moment, but never in a thousand years?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No"
+            "answer":"Earthquake"
          },
          {
             "id":2,
-            "answer":"Yes"
+            "answer":"The letter 'm'"
+         },
+         {
+            "id":2,
+            "answer":"Eclipse"
          }
       ],
       "answer":2
@@ -291,21 +295,21 @@
    },
    {
       "id":15,
-      "question":"How do I know if someone is trans?",
+      "question":"What has many keys, but can't even open a single door?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Their voice"
+            "answer":"A phone"
          },
          {
             "id":2,
-            "answer":"Their face shape"
+            "answer":"A guitar"
          },
          {
             "id":3,
-            "answer":"Tells you they are trans"
+            "answer":"A piano"
          }
       ],
       "answer":3
@@ -375,17 +379,17 @@
    },
    {
       "id":19,
-      "question":"Does being a transgender the same thing as being intersex?",
+      "question":"What runs around the whole yard without moving?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No, it isn't"
+            "answer":"A fence"
          },
          {
             "id":2,
-            "answer":"Yes, it is"
+            "answer":"A bike"
          },
 		 {
             "id":3,

@@ -1,240 +1,422 @@
 [
    {
       "id":1,
-      "question":"Being gay is a choice.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/01.jpg",
+      "question":"I have branches yet I have no leaves, no trunk and no fruit. What am I?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"A Tree"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"A bank"
+         },
+		 {
+            "id":3,
+            "answer":"A house"
          }
       ],
       "answer":2
    },
    {
       "id":2,
-      "question":"Each episode of LGBT victimization, such as physical or verbal harassment or abuse,increases the likelihood of self-harming behavior by 2.5 times on average.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/02.jpg",
+      "img":"bailyjay.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Chanel Santini"
          },
          {
             "id":2,
-            "answer":"FALSE"
-         }
-      ],
-      "answer":1
-   },
-   {
-      "id":3,
-      "question":"Same-sex parents hurt children.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/03.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"TRUE"
+            "answer":"Baily Jay"
          },
          {
-            "id":2,
-            "answer":"FALSE"
+            "id":3,
+            "answer":"Jessy Dubai"
          }
       ],
       "answer":2
    },
    {
-      "id":4,
-      "question":"Straight privilege exists and is still present today.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/04.jpg",
+      "id":3,
+      "question":"What belongs to you but other people use it more than you?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Your name"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Your phone"
+         },
+		 {
+            "id":3,
+            "answer":"Your car"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":4,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"eva.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Eva Lin"
+         },
+         {
+            "id":2,
+            "answer":"Shiri Allwood"
+         },
+         {
+            "id":3,
+            "answer":"Barbie Woods"
          }
       ],
       "answer":1
    },
    {
       "id":5,
-      "question":"An individual can be transgender without undergoing hormones and/or surgery.",
+      "question":"How can a girl go 25 days without sleep?",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/05.jpg",
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"She sleeps at 4 hours a day"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"She never sleeps"
+         },
+		 {
+            "id":3,
+            "answer":"She sleeps at night"
          }
       ],
-      "answer":2
+      "answer":3
    },
    {
       "id":6,
-      "question":"Same sex couples are more likely to contract sexually transmitted diseases.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/06.jpg",
+      "img":"janemarie.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Sabrina Campos"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Jane Marie"
+         },
+         {
+            "id":3,
+            "answer":"Lexie Beth"
          }
       ],
       "answer":2
    },
    {
       "id":7,
-      "question":"Individuals who are gender non-conforming have to go by they/them pronouns.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/07.jpg",
+      "question":"What makes you, young?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"eating healthy"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"adding the letters 'ng'"
+         },
+		 {
+            "id":3,
+            "answer":"exercicing"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":8,
-      "question":"42% of LGBT people report living in an unwelcoming environment.",
-      "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/08.jpg",
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"jessydubai.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Jessi Martinez"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Jessy Dubai"
+         },
+         {
+            "id":3,
+            "answer":"Jessica Versace"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":9,
-      "question":"In June of 2015, same sex marriage became legal in all states in the US.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/09.jpg",
+      "question":"What is 3/7 chicken, 2/3 cat and 2/4 goat?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Chicago"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Chicken"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":10,
-      "question":"Gay conversion therapy is a viable way of becoming straight.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/10.jpg",
+      "img":"kiti.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Kitty Kaiti"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Kitty Doll"
+         },
+         {
+            "id":3,
+            "answer":"Korra Del Rio"
          }
       ],
-      "answer":2
+      "answer":1
    },
    {
       "id":11,
-      "question":"People of the LGBTQ+ community have mental issues that cause their sexuality or gender identity.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/11.jpg",
+      "question":"What connects two people but touches only one?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Contract"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Love"
+         },
+         {
+            "id":3,
+            "answer":"A wedding ring"
          }
       ],
-      "answer":2
+      "answer":3
    },
    {
       "id":12,
-      "question":"People who are bisexual are 50% gay and 50% straight.",
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/12.jpg",
+      "img":"lane.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Annalise Rose"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Evie Eliot"
+         },
+         {
+            "id":3,
+            "answer":"Annabelle Lane"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":13,
+      "question":"What word is always pronounced wrong?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Wrong!"
+         },
+         {
+            "id":2,
+            "answer":"Further"
+         },
+         {
+            "id":3,
+            "answer":"frighten"
+         }
+      ],
+      "answer":
+   },
+   {
+      "id":14,
+      "question":"Can you identify This Transgender Girl?",
+       "hasimg":true,
+      "img":"natalie.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Natalie Mars"
+         },
+         {
+            "id":2,
+            "answer":"Naomi Chi"
+         },
+         {
+            "id":3,
+            "answer":"Nathany Gomes"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":15,
+      "question":"How did the pancake hurt itself?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Too much fire"
+         },
+         {
+            "id":2,
+            "answer":"Falling down"
+         },
+         {
+            "id":3,
+            "answer":"Doing backflips"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":16,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"nina.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Fernanda Barros"
+         },
+         {
+            "id":2,
+            "answer":"Nina Lawless"
+         },
+         {
+            "id":3,
+            "answer":"Nody Nadia"
          }
       ],
       "answer":2
    },
    {
-      "id":13,
-      "question":"LGB Youth are almost 5 times as likely to have attempted suicide than heterosexual youth.",
-      "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/13.jpg",
+      "id":17,
+      "question":"Is transgender equality important?",
+      "hasimg":false,
+      "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Yes, it is"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"No, it isn't"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":1
    },
    {
-      "id":14,
-      "question":"Other examples of gender-neutral pronouns are zie/zim/zer and sie/sie/hir.",
+      "id":18,
+      "question":"Can you identify This Transgender Girl?",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/14.jpg",
+      "img":"chelsea.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"TRUE"
+            "answer":"Morgan Bailey"
          },
          {
             "id":2,
-            "answer":"FALSE"
+            "answer":"Fernanda Cristine"
+         },
+         {
+            "id":3,
+            "answer":"Chelsea Marie"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":19,
+      "question":"Does being a transgender the same thing as being intersex?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"No, it isn't"
+         },
+         {
+            "id":2,
+            "answer":"Yes, it is"
+         },
+		 {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":1
+   },
+   {
+      "id":20,
+      "question":"Can you identify This Transgender Girl?",
+      "hasimg":true,
+      "img":"mia.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Mia Maffia"
+         },
+         {
+            "id":2,
+            "answer":"Sasha Strokes"
+         },
+         {
+            "id":3,
+            "answer":"Mia Isabella"
+         }
+      ],
+      "answer":3
    }
 ]

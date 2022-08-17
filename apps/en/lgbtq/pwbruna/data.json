@@ -1,21 +1,21 @@
 [
    {
       "id":1,
-      "question":"Is Being a Transgender Person Considered a Disorder?",
+      "question":"What is at the end of a rainbow?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Yes"
+            "answer":"The blue color"
          },
          {
             "id":2,
-            "answer":"No"
+            "answer":"The letter w"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"The sky"
          }
       ],
       "answer":2
@@ -85,17 +85,17 @@
    },
    {
       "id":5,
-      "question":"Do All Transgender People Have Surgery?",
+      "question":"If you drop a yellow hat in the Red Sea, what does it become?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No"
+            "answer":"Wet, duh!"
          },
          {
             "id":2,
-            "answer":"Yes"
+            "answer":"Green hat"
          },
 		 {
             "id":3,
@@ -169,17 +169,17 @@
    },
    {
       "id":9,
-      "question":"What makes someone trans?",
+      "question":"What only works the first time you use it?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"a disconnect between their gender and their assigned sex"
+            "answer":"A match"
          },
          {
             "id":2,
-            "answer":"wearing women clothes"
+            "answer":"A pencil"
          },
 		 {
             "id":3,
@@ -211,24 +211,24 @@
    },
    {
       "id":11,
-      "question":"How should I react when someone comes out as trans?",
+      "question":"What color is the wind?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Quit the conversation"
+            "answer":"Blew"
          },
          {
             "id":2,
-            "answer":"Guilt them"
+            "answer":"Blue"
          },
          {
             "id":3,
-            "answer":"Be supportive"
+            "answer":"white"
          }
       ],
-      "answer":3
+      "answer":
    },
    {
       "id":12,
@@ -253,17 +253,21 @@
    },
    {
       "id":13,
-      "question":"Can you be trans and gay?",
+      "question":"When is homework not homework?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No"
+            "answer":"an exam"
          },
          {
             "id":2,
-            "answer":"Yes"
+            "answer":"When it's done at school."
+         },
+         {
+            "id":3,
+            "answer":"I don't know"
          }
       ],
       "answer":2
@@ -333,24 +337,24 @@
    },
    {
       "id":17,
-      "question":"Is transgender equality important?",
+      "question":"What has an eye but can not see?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"Yes, it is"
+            "answer":"A Camera"
          },
          {
             "id":2,
-            "answer":"No, it isn't"
+            "answer":"A needle"
          },
 		 {
             "id":3,
             "answer":"I don't know"
          }
       ],
-      "answer":1
+      "answer":2
    },
    {
       "id":18,
@@ -375,21 +379,21 @@
    },
    {
       "id":19,
-      "question":"Does being a transgender the same thing as being intersex?",
+      "question":"If I eat I live yet if I drink I die. What am I ?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No, it isn't"
+            "answer":"Fire"
          },
          {
             "id":2,
-            "answer":"Yes, it is"
+            "answer":"Snake"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"Camel"
          }
       ],
       "answer":1
