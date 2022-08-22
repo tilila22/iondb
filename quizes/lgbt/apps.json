@@ -1,65 +1,56 @@
 [
-	{
-	  "name":"LGBT True/False",
-	  "androidId":"com.kritiqapps.transgenderstrueorfalse",
+   {
+      "name":"LGBT True/False",
+      "androidId":"com.kritiqapps.transgenderstrueorfalse",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/VHoVhySmiWnz2uMmo7B5U8fRVtFEoVqecWq1IR07WN0Z0_WbQnFDNJ1PQTkRFIoOrXQ=w240-h480"
-
-	},
-	{
-	  "name":"Quiz of Trans",
-	  "androidId":"com.kritiqapps.quizoftrans",
+      "imgUrl":"https://play-lh.googleusercontent.com/VHoVhySmiWnz2uMmo7B5U8fRVtFEoVqecWq1IR07WN0Z0_WbQnFDNJ1PQTkRFIoOrXQ=w240-h480"
+   },
+   {
+      "name":"Quiz of Trans",
+      "androidId":"com.kritiqapps.quizoftrans",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/fKhFGTGQGest2neLEKN3id3KPVlDFjeiquXCirJ0Jj2DQ8z9p8-m8gARMKY-O37u7Q=w240-h480"
-
-	},
-	{
-	  "name":"Natalie Mars Quiz",
-	  "androidId":"com.kritiqapps.pwnatalie",
+      "imgUrl":"https://play-lh.googleusercontent.com/fKhFGTGQGest2neLEKN3id3KPVlDFjeiquXCirJ0Jj2DQ8z9p8-m8gARMKY-O37u7Q=w240-h480"
+   },
+   {
+      "name":"Natalie Mars Quiz",
+      "androidId":"com.kritiqapps.pwnatalie",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/KOr5_DJiPkcBQtOdTFHGtr5AS-p-hWTAMAM3erJu8QJ0bd8bmwgBff26H_TNCRZ-M_U=w240-h480"
-
-	},
-	{
-	  "name":"Daisy Taylor Game",
-	  "androidId":"com.kritiqapps.pwd",
+      "imgUrl":"https://play-lh.googleusercontent.com/KOr5_DJiPkcBQtOdTFHGtr5AS-p-hWTAMAM3erJu8QJ0bd8bmwgBff26H_TNCRZ-M_U=w240-h480"
+   },
+   {
+      "name":"Daisy Taylor Game",
+      "androidId":"com.kritiqapps.pwd",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/dUt0b9_4w7T2OJ7a8Z0GBqqdR0sUQbawiLGHs0UB2-MoynoaSCL6oaLRYC3RkNtCakg=w240-h480"
-
-	},
-	{
-	  "name":"Bruna Angel Game",
-	  "androidId":"com.kritiqapps.pwbruna",
+      "imgUrl":"https://play-lh.googleusercontent.com/dUt0b9_4w7T2OJ7a8Z0GBqqdR0sUQbawiLGHs0UB2-MoynoaSCL6oaLRYC3RkNtCakg=w240-h480"
+   },
+   {
+      "name":"Bruna Angel Game",
+      "androidId":"com.kritiqapps.pwbruna",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/0hyD4lKXs8lHpNNSxD_2yVZ1SOUHQh9zRE8t4izC8F7lE8kzY6A0eVpyEV_QsiMn_A=w480-h960"
-
-	},
-	{
-	  "name":"Ariana Game",
-	  "androidId":"com.kritiqapps.pwariana",
+      "imgUrl":"https://play-lh.googleusercontent.com/0hyD4lKXs8lHpNNSxD_2yVZ1SOUHQh9zRE8t4izC8F7lE8kzY6A0eVpyEV_QsiMn_A=w480-h960"
+   },
+   {
+      "name":"Ariana Game",
+      "androidId":"com.kritiqapps.pwariana",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/6sYLueLFziFvM8vlCYcf-52lUUoBEn1k9H-aQFUPdb-G0HRyOijLrMk5EPl5bOAdyg=w480-h960"
-
-	},
-	{
-	  "name":"Ema Rose Game",
-	  "androidId":"com.kritiqapps.pwema",
+      "imgUrl":"https://play-lh.googleusercontent.com/6sYLueLFziFvM8vlCYcf-52lUUoBEn1k9H-aQFUPdb-G0HRyOijLrMk5EPl5bOAdyg=w480-h960"
+   },
+   {
+      "name":"Ema Rose Game",
+      "androidId":"com.kritiqapps.pwema",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/9nkH_XSglP11oQFvY_yhywae1wcuNB2yWZDyElZFzI-obCur5hW9rJBaS3-7jcx1N1A=w480-h960"
-
-	},
-	{
-	  "name":"Ella Hollywood Game",
-	  "androidId":"com.kritiqapps.pwella",
+      "imgUrl":"https://play-lh.googleusercontent.com/9nkH_XSglP11oQFvY_yhywae1wcuNB2yWZDyElZFzI-obCur5hW9rJBaS3-7jcx1N1A=w480-h960"
+   },
+   {
+      "name":"Ella Hollywood Game",
+      "androidId":"com.kritiqapps.pwella",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/VkBDboH2rmKlk1I_kIPHhZkx1y5rW7tbok6ER6IufMHFVRqUXZ2HHdqMR_GgZaSH7gwM=w480-h960"
-
-	},
-	{
-	  "name":"Transgenders Photos",
-	  "androidId":"com.kritiqapps.tswallpaper",
+      "imgUrl":"https://play-lh.googleusercontent.com/VkBDboH2rmKlk1I_kIPHhZkx1y5rW7tbok6ER6IufMHFVRqUXZ2HHdqMR_GgZaSH7gwM=w480-h960"
+   },
+   {
+      "name":"Transgenders Photos",
+      "androidId":"com.kritiqapps.tswallpaper",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/NNXgL0PyuWWJnUsuZqnAWHYcjryqfH5jZ42_uyyWMgrbgZ3Nn6_yl5x8WUbzs6gf-u0C=w480-h960"
-
-	
+      "imgUrl":"https://play-lh.googleusercontent.com/NNXgL0PyuWWJnUsuZqnAWHYcjryqfH5jZ42_uyyWMgrbgZ3Nn6_yl5x8WUbzs6gf-u0C=w480-h960"
+   }
 ]
