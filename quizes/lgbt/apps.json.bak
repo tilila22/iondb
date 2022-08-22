@@ -50,10 +50,16 @@
 	},
 	{
 	  "name":"Ella Hollywood Game",
-	  "androidId":"com.kritiqapps.pwema",
+	  "androidId":"com.kritiqapps.pwella",
       "iosId":"00000",
 	  "imgUrl":"https://play-lh.googleusercontent.com/VkBDboH2rmKlk1I_kIPHhZkx1y5rW7tbok6ER6IufMHFVRqUXZ2HHdqMR_GgZaSH7gwM=w480-h960"
 
-	}
+	},
+	{
+	  "name":"Transgenders Photos",
+	  "androidId":"com.kritiqapps.pwella",
+      "iosId":"00000",
+	  "imgUrl":"https://play-lh.googleusercontent.com/VkBDboH2rmKlk1I_kIPHhZkx1y5rW7tbok6ER6IufMHFVRqUXZ2HHdqMR_GgZaSH7gwM=w480-h960"
+
 	
 ]
