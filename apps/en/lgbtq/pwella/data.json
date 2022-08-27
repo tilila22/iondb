@@ -13,7 +13,7 @@
             "id":2,
             "answer":"A bank"
          },
-		 {
+         {
             "id":3,
             "answer":"A house"
          }
@@ -55,7 +55,7 @@
             "id":2,
             "answer":"Your phone"
          },
-		 {
+         {
             "id":3,
             "answer":"Your car"
          }
@@ -97,7 +97,7 @@
             "id":2,
             "answer":"She never sleeps"
          },
-		 {
+         {
             "id":3,
             "answer":"She sleeps at night"
          }
@@ -139,7 +139,7 @@
             "id":2,
             "answer":"adding the letters 'ng'"
          },
-		 {
+         {
             "id":3,
             "answer":"exercicing"
          }
@@ -181,7 +181,7 @@
             "id":2,
             "answer":"Chicken"
          },
-		 {
+         {
             "id":3,
             "answer":"I don't know"
          }
@@ -270,12 +270,12 @@
             "answer":"frighten"
          }
       ],
-      "answer":
+      "answer":1
    },
    {
       "id":14,
       "question":"Can you identify This Transgender Girl?",
-       "hasimg":true,
+      "hasimg":true,
       "img":"natalie.jpg",
       "choices":[
          {
@@ -349,7 +349,7 @@
             "id":2,
             "answer":"No, it isn't"
          },
-		 {
+         {
             "id":3,
             "answer":"I don't know"
          }
@@ -391,7 +391,7 @@
             "id":2,
             "answer":"In Finland"
          },
-		 {
+         {
             "id":3,
             "answer":"In Irland"
          }

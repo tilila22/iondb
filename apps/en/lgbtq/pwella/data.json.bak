@@ -270,7 +270,7 @@
             "answer":"frighten"
          }
       ],
-      "answer":
+      "answer":1
    },
    {
       "id":14,
@@ -379,21 +379,21 @@
    },
    {
       "id":19,
-      "question":"Does being a transgender the same thing as being intersex?",
+      "question":"If fish lived on land, where would they live?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No, it isn't"
+            "answer":"In Scotland"
          },
          {
             "id":2,
-            "answer":"Yes, it is"
+            "answer":"In Finland"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"In Irland"
          }
       ],
       "answer":1
