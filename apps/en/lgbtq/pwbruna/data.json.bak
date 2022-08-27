@@ -379,21 +379,21 @@
    },
    {
       "id":19,
-      "question":"Does being a transgender the same thing as being intersex?",
+      "question":"If I eat I live yet if I drink I die. What am I ?",
       "hasimg":false,
       "img":"default.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"No, it isn't"
+            "answer":"Fire"
          },
          {
             "id":2,
-            "answer":"Yes, it is"
+            "answer":"Snake"
          },
 		 {
             "id":3,
-            "answer":"I don't know"
+            "answer":"Camel"
          }
       ],
       "answer":1
