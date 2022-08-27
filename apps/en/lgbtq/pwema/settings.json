@@ -2,6 +2,7 @@
    {
       "language":"en",
       "promoteApps":true,
+	  "gameId":"4904401",
       "isAdmobActive":false,
       "admobBannerUnit":"",
       "admobInterstitialUnit":"",
