@@ -2,7 +2,7 @@
    {
       "language":"en",
       "promoteApps":true,
-      "isUnityActive":false,
+      "isUnityActive":true,
       "gameId":"4904447",
       "unityInterstitialUnit":"Interstitial_Android",
       "isAdmobActive":false,
