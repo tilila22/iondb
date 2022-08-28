@@ -3,7 +3,8 @@
       "id":1,
       "question":"Being gay is a choice.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/01.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/01.jpg",
+	  
       "choices":[
          {
             "id":1,
@@ -20,7 +21,7 @@
       "id":2,
       "question":"Each episode of LGBT victimization, such as physical or verbal harassment or abuse,increases the likelihood of self-harming behavior by 2.5 times on average.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/02.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/02.jpg",
       "choices":[
          {
             "id":1,
@@ -37,7 +38,7 @@
       "id":3,
       "question":"Same-sex parents hurt children.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/03.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/03.jpg",
       "choices":[
          {
             "id":1,
@@ -54,7 +55,7 @@
       "id":4,
       "question":"Straight privilege exists and is still present today.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/04.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/04.jpg",
       "choices":[
          {
             "id":1,
@@ -71,7 +72,7 @@
       "id":5,
       "question":"An individual can be transgender without undergoing hormones and/or surgery.",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/05.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/05.jpg",
       "choices":[
          {
             "id":1,
@@ -88,7 +89,7 @@
       "id":6,
       "question":"Same sex couples are more likely to contract sexually transmitted diseases.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/06.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/06.jpg",
       "choices":[
          {
             "id":1,
@@ -105,7 +106,7 @@
       "id":7,
       "question":"Individuals who are gender non-conforming have to go by they/them pronouns.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/07.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/07.jpg",
       "choices":[
          {
             "id":1,
@@ -122,7 +123,7 @@
       "id":8,
       "question":"42% of LGBT people report living in an unwelcoming environment.",
       "hasimg":false,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/08.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/08.jpg",
       "choices":[
          {
             "id":1,
@@ -139,7 +140,7 @@
       "id":9,
       "question":"In June of 2015, same sex marriage became legal in all states in the US.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/09.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/09.jpg",
       "choices":[
          {
             "id":1,
@@ -156,7 +157,7 @@
       "id":10,
       "question":"Gay conversion therapy is a viable way of becoming straight.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/10.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/10.jpg",
       "choices":[
          {
             "id":1,
@@ -173,7 +174,7 @@
       "id":11,
       "question":"People of the LGBTQ+ community have mental issues that cause their sexuality or gender identity.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/11.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/11.jpg",
       "choices":[
          {
             "id":1,
@@ -190,7 +191,7 @@
       "id":12,
       "question":"People who are bisexual are 50% gay and 50% straight.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/12.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/12.jpg",
       "choices":[
          {
             "id":1,
@@ -207,7 +208,7 @@
       "id":13,
       "question":"LGB Youth are almost 5 times as likely to have attempted suicide than heterosexual youth.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/13.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/13.jpg",
       "choices":[
          {
             "id":1,
@@ -224,7 +225,7 @@
       "id":14,
       "question":"Other examples of gender-neutral pronouns are zie/zim/zer and sie/sie/hir.",
       "hasimg":true,
-      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/lgbt/trsgtf/imgs/14.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/lgbtq/trsgtf/imgs/14.jpg",
       "choices":[
          {
             "id":1,
