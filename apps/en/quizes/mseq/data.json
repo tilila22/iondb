@@ -1,0 +1,296 @@
+[
+   {
+      "id":0,
+      "question":"The intersection of a row and a column is called a ________.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"sum"
+         },
+         {
+            "id":2,
+            "answer":"chart"
+         },
+         {
+            "id":3,
+            "answer":"cell"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":1,
+      "question":"A group of cells is called a ________.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"cell cluster"
+         },
+         {
+            "id":2,
+            "answer":"cell range"
+         },
+         {
+            "id":3,
+            "answer":"multicell"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":2,
+      "question":"Where is the fill handle located?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"In Backstage view"
+         },
+         {
+            "id":2,
+            "answer":"At the beginning of any formula or function"
+         },
+         {
+            "id":3,
+            "answer":"In the bottom-right corner of the selected cell"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":3,
+      "question":"In this image, why does the value in cell G1 look slightly different from the value in the formula bar?",
+      "hasimg":true,
+      "img":"excel_1.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"It’s using conditional formatting"
+         },
+         {
+            "id":2,
+            "answer":"It’s using an absolute cell reference"
+         },
+         {
+            "id":3,
+            "answer":"It’s using the Currency number format"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":4,
+      "question":"You can click the tabs at the bottom of a workbook to switch between ________.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"worksheets"
+         },
+         {
+            "id":2,
+            "answer":"number formats"
+         },
+         {
+            "id":3,
+            "answer":"formulas"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":5,
+      "question":"Let’s say you’re trying to find your average grade. What’s wrong with the formula shown in the image?",
+      "hasimg":true,
+      "img":"excel_3.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"It should use quotation marks instead of parentheses"
+         },
+         {
+            "id":2,
+            "answer":"It should have an equals sign (=) at the beginning"
+         },
+         {
+            "id":3,
+            "answer":"There is nothing wrong with the formula"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":6,
+      "question":"True or False: You can view a formula by double-clicking the cell that contains the formula.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         },
+         {
+            "id":3,
+            "answer":"None"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":7,
+      "question":"Which of the following is an absolute cell reference?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"$A$2"
+         },
+         {
+            "id":2,
+            "answer":"A:2"
+         },
+         {
+            "id":3,
+            "answer":"#A2"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":8,
+      "question":"Which of the formulas below are valid? ",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"A3+100"
+         },
+         {
+            "id":2,
+            "answer":"=R2*D2"
+         },
+         {
+            "id":3,
+            "answer":"=5B+6B"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":9,
+      "question":"What value would Excel return for this formula? =(82-32)/5+8*2",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"26"
+         },
+         {
+            "id":2,
+            "answer":"36"
+         },
+         {
+            "id":3,
+            "answer":"7.69"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":10,
+      "question":"What feature did we use to quickly apply the formatting shown in this image?",
+      "hasimg":true,
+      "img":"excel_2.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"PivotTables"
+         },
+         {
+            "id":2,
+            "answer":"Conditional formatting"
+         },
+         {
+            "id":3,
+            "answer":"What-if analysis"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":11,
+      "question":"What is the main advantage of selecting the Mark as Final option?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"It discourages other users from editing the workbook"
+         },
+         {
+            "id":2,
+            "answer":"It prevents other users from editing the workbook"
+         },
+         {
+            "id":3,
+            "answer":"It ensures that the workbook is free of errors"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":12,
+      "question":"The four areas in this image are used to create a ________.",
+      "hasimg":true,
+      "img":"excel_4.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"complex formula"
+         },
+         {
+            "id":2,
+            "answer":"custom filter"
+         },
+         {
+            "id":3,
+            "answer":"PivotTable"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":13,
+      "question":"Which feature starts with a desired result, then calculates the input value that will give that result?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Reverse formula"
+         },
+         {
+            "id":2,
+            "answer":"Goal seek"
+         },
+         {
+            "id":3,
+            "answer":"Data validation"
+         }
+      ],
+      "answer":2
+   }
+]

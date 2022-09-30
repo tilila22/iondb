@@ -1,0 +1,271 @@
+[
+   {
+      "id":0,
+      "question":"Which of the following best describes the Ribbon?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"A cable that connects your computer to a printer"
+         },
+         {
+            "id":2,
+            "answer":"A toolbar with various commands"
+         },
+         {
+            "id":3,
+            "answer":"A feature that can translate text into any language"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":1,
+      "question":"Which method can you use to move text from one part of the document to another? Select all that apply.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Select the text, then click and drag it to another location"
+         },
+         {
+            "id":2,
+            "answer":"Press the Print Screen key on your keyboard"
+         },
+         {
+            "id":3,
+            "answer":"Go to Backstage view and click the Move button"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":2,
+      "question":"In this image, \"Calibri\" is a ________.",
+      "hasimg":true,
+      "img":"word_calibri.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"theme"
+         },
+         {
+            "id":2,
+            "answer":"color"
+         },
+         {
+            "id":3,
+            "answer":"font"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":3,
+      "question":"True or False: Word's Spelling and Grammar check is always 100% accurate.",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"True"
+         },
+         {
+            "id":2,
+            "answer":"False"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":4,
+      "question":"Suppose you made an error while creating your document. You used the word “maroon” instead of “burgundy” in several places. What is the quickest way for you to correct your mistake?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Insert SmartArt"
+         },
+         {
+            "id":2,
+            "answer":"Use the Find and Replace feature"
+         },
+         {
+            "id":3,
+            "answer":"Delete all of the text and start over"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":5,
+      "question":"Which page orientation is used in this image?",
+      "hasimg":true,
+      "img":"word_application.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Portrait"
+         },
+         {
+            "id":2,
+            "answer":"Employment"
+         },
+         {
+            "id":3,
+            "answer":"Landscape"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":6,
+      "question":"If you are printing multiple copies of a document and want the pages to be sorted 1, 2, 3, 1, 2, 3, which option would you use?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Uncollated"
+         },
+         {
+            "id":2,
+            "answer":"Collated"
+         },
+         {
+            "id":3,
+            "answer":"Portrait Orientation"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":7,
+      "question":"Suppose you've created a bulleted list, but the bullets are too close to the text. What is the best way to fix this?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Press the Caps Lock key on your keyboard"
+         },
+         {
+            "id":2,
+            "answer":"Press the Tab key to indent the text"
+         },
+         {
+            "id":3,
+            "answer":"Adjust the indent markers on the Ruler"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":8,
+      "question":"What is the main advantage of using a text box?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"It automatically appears on every page of your document"
+         },
+         {
+            "id":2,
+            "answer":"It automatically makes the text larger"
+         },
+         {
+            "id":3,
+            "answer":"It gives you more freedom to move the text around"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":9,
+      "question":"When inserting a Hyperlink, what can you link to?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"A webpage"
+         },
+         {
+            "id":2,
+            "answer":"A house"
+         },
+         {
+            "id":3,
+            "answer":"A person"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":10,
+      "question":"If you want to add text to the top of every page in your document, which feature would you use?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Backstage view"
+         },
+         {
+            "id":2,
+            "answer":"Header"
+         },
+         {
+            "id":3,
+            "answer":"Page layout"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":11,
+      "question":"If you want to restart page numbering partway through your document, what do you need to do first?",
+      "hasimg":false,
+      "img":"default.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Turn off Track Changes"
+         },
+         {
+            "id":2,
+            "answer":"Add a section break"
+         },
+         {
+            "id":3,
+            "answer":"Close and reopen the document"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":12,
+      "question":"In this image, the document includes fields for an address block and greeting line. Which feature are we most likely using??",
+      "hasimg":true,
+      "img":"word_addressblock.png",
+      "choices":[
+         {
+            "id":1,
+            "answer":"Mail Merge"
+         },
+         {
+            "id":2,
+            "answer":"Text boxes"
+         },
+         {
+            "id":3,
+            "answer":"AutoFill"
+         }
+      ],
+      "answer":1
+   }
+]
