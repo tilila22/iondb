@@ -1,10 +1,10 @@
 [
    {
       "language":"ar",
-      "promoteApps":false,
-      "isAdmobActive":false,
+      "promoteApps":true,
+      "isAdmobActive":true,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"",
+      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
       "isUnityActive":false,
       "unityInterstitialUnit":""
    }
