@@ -1,53 +1,44 @@
 [
-{
-	  "name":"Learn Python 3",
-	  "androidId":"com.kritiqapps.tstpyth",
+   {
+      "name":"Learn Python 3",
+      "androidId":"com.kritiqapps.tstpyth",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/iN5hUFW7mECvAvPO68QzIcd2z7qTk2e2bNFYZdcOAXF14sX3vTBryGdPxEjD1Ikft6k=w240-h480",
-
-	},
-	{
-	  "name":"Learn Access",
-	  "androidId":"com.kritiqapps.msaccessquiz",
+      "imgUrl":"https://play-lh.googleusercontent.com/iN5hUFW7mECvAvPO68QzIcd2z7qTk2e2bNFYZdcOAXF14sX3vTBryGdPxEjD1Ikft6k=w240-h480"
+   },
+   {
+      "name":"Learn Access",
+      "androidId":"com.kritiqapps.msaccessquiz",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/cKVARCj0-3RqPZq4FLSeCL4YQHk27eSloD7QSjCEGq0koUGCCt8w53t7ZxV3kodgw_s=w240-h480",
-
-	},
-	{
-	  "name":"Machine Learning game",
-	  "androidId":"com.kritiqapps.testml",
+      "imgUrl":"https://play-lh.googleusercontent.com/cKVARCj0-3RqPZq4FLSeCL4YQHk27eSloD7QSjCEGq0koUGCCt8w53t7ZxV3kodgw_s=w240-h480"
+   },
+   {
+      "name":"Machine Learning game",
+      "androidId":"com.kritiqapps.testml",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/3FU75VjVsuSXm_JyT_7v4MBiF3IaVR2Y6tUU93W2TyOqSmFYLq-BIPU3hMZHlIDgXlI=w240-h480",
-
-	},
-	{
-	  "name":"Learn Ms Presentation",
-	  "androidId":"com.kritiqapps.mspptquiz",
+      "imgUrl":"https://play-lh.googleusercontent.com/3FU75VjVsuSXm_JyT_7v4MBiF3IaVR2Y6tUU93W2TyOqSmFYLq-BIPU3hMZHlIDgXlI=w240-h480"
+   },
+   {
+      "name":"Learn Ms Presentation",
+      "androidId":"com.kritiqapps.mspptquiz",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/dDOg5HiATArckZ7OCrcjSTqXhK6ti1I7R1MN7vAf0gvIycTsz-YA1Z5Z-1StDOYLpQ=w240-h480",
-
-	},
-	{
-	  "name":"Learn Excel",
-	  "androidId":"com.kritiqapps.msexcelquiz",
+      "imgUrl":"https://play-lh.googleusercontent.com/dDOg5HiATArckZ7OCrcjSTqXhK6ti1I7R1MN7vAf0gvIycTsz-YA1Z5Z-1StDOYLpQ=w240-h480"
+   },
+   {
+      "name":"Learn Excel",
+      "androidId":"com.kritiqapps.msexcelquiz",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/i2jKYxWFJgPIolbym8r7bz3m1l34KN9ywtNLBR5--tvMiJfAOc7A49RnyoTcafgUEbY=w240-h480",
-
-	},
-	{
-	  "name":"Am I A Moron?",
-	  "androidId":"com.kritiqapps.morontest",
+      "imgUrl":"https://play-lh.googleusercontent.com/i2jKYxWFJgPIolbym8r7bz3m1l34KN9ywtNLBR5--tvMiJfAOc7A49RnyoTcafgUEbY=w240-h480"
+   },
+   {
+      "name":"Am I A Moron?",
+      "androidId":"com.kritiqapps.morontest",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/w8gayE-AN-8luWf3T2GDO8R9D1TpAarKfKf9T-uNvZ6FsXg4RrFMUPskSAXohJMnNw=w240-h480",
-
-	},
-	{
-	  "name":"Learn Word",
-	  "androidId":"com.kritiqapps.mswquizapp",
+      "imgUrl":"https://play-lh.googleusercontent.com/w8gayE-AN-8luWf3T2GDO8R9D1TpAarKfKf9T-uNvZ6FsXg4RrFMUPskSAXohJMnNw=w240-h480"
+   },
+   {
+      "name":"Learn Word",
+      "androidId":"com.kritiqapps.mswquizapp",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/o7ATxijmWdl8Arwmm5NHSFXZjBNH-FUS9twxXqyx6RsmxMtgz0vNfnIvrDqljHOOCfA=w240-h480",
-
-	},
-
-
+      "imgUrl":"https://play-lh.googleusercontent.com/o7ATxijmWdl8Arwmm5NHSFXZjBNH-FUS9twxXqyx6RsmxMtgz0vNfnIvrDqljHOOCfA=w240-h480"
+   }
 ]
