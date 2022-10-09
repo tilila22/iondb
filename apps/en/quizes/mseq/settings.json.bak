@@ -2,9 +2,9 @@
    {
       "language":"en",
       "promoteApps":true,
-      "isAdmobActive":true,
+      "isAdmobActive":false,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
+      "admobInterstitialUnit":"ca-app-pub-4639185808901805/7724358728",
       "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
