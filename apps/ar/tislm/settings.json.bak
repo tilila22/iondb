@@ -6,6 +6,6 @@
       "admobBannerUnit":"",
       "admobInterstitialUnit":"ca-app-pub-4639185808901805/3544727527",
       "isUnityActive":false,
-      "unityInterstitialUnit":"Interstitial_Android"
+      "unityInterstitialUnit":""
    }
 ]
