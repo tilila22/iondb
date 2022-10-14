@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "برشلونة",
+    "votes": "7.5k+",
+    "nVotes": "4.2k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F21.jpg?alt=media&token=793f4e1b-0fe5-4e39-b1ff-df14f5acdb98"
+  },
+  {
+    "id": 2,
+    "name": "ريال مدريد",
+    "votes": "5.56k+",
+    "nVotes": "6.2k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2Fmadrid.jpg?alt=media&token=f0cb2265-ece3-45c7-8903-cd2bc81c2225"
+  },
+  {
+    "id": 3,
+    "name": "ليفربول",
+    "votes": "4.7k+",
+    "nVotes": "8.8k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F07.jpg?alt=media&token=3d79b989-c1e9-4284-9780-7f67e59478c6"
+  },
+  {
+    "id": 4,
+    "name": "يوفنتوس",
+    "votes": "2.3k+",
+    "nVotes": "5k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F14.jpg?alt=media&token=8d033531-5ad4-42af-b459-08d150c2e6a9"
+  },
+  {
+    "id": 5,
+    "name": "مانشستر سيتي",
+    "votes": "9.1k+",
+    "nVotes": "5.3k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F04.jpg?alt=media&token=e5af8d8a-22de-4b65-8789-2e3b83924c26"
+  },
+  {
+    "id": 6,
+    "name": "مانشستر يونايتد",
+    "votes": "2.1k+",
+    "nVotes": "10.5k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F05.jpg?alt=media&token=45e45ef9-282f-4938-814d-256b9b7f267b"
+  },
+  {
+    "id": 7,
+    "name": "بايرن ميونخ",
+    "votes": "2.9k+",
+    "nVotes": "15.1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F10.jpg?alt=media&token=6ff74111-40ad-4859-b9f3-2e4d3a20ff13"
+  },
+  {
+    "id": 8,
+    "name": "باريس سان جيرمان",
+    "votes": "1.23k+",
+    "nVotes": "8k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F08.jpg?alt=media&token=eab0d031-9952-4fcf-a919-7ea0e349799d"
+  },
+  {
+    "id": 9,
+    "name": "روما",
+    "votes": "2.89k+",
+    "nVotes": "7.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F16.jpg?alt=media&token=bebca1af-7fe3-4c98-be9f-7dee669b50e0"
+  },
+  {
+    "id": 10,
+    "name": "أتلتيكو مدريد",
+    "votes": "6.4k+",
+    "nVotes": "5.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F02.jpg?alt=media&token=e7efa1d4-64c8-4cf2-92e6-18aa1388c778"
+  },
+  {
+    "id": 11,
+    "name": "الإنتر",
+    "votes": "5.1k+",
+    "nVotes": "6.4k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F17.jpg?alt=media&token=c57b9b75-903f-4f3f-a5f6-d8fc64c83d9f"
+  },
+  {
+    "id": 12,
+    "name": "توتنهام",
+    "votes": "500+",
+    "nVotes": "5k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F06.jpg?alt=media&token=1ec5b951-4d9a-401e-ba54-cbc0c2b7a2ba"
+  },
+  {
+    "id": 13,
+    "name": "بوروسيا دورتموند",
+    "votes": "878+",
+    "nVotes": "6.8k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F11.jpg?alt=media&token=f917ea7e-ca03-4d79-83fd-071134b1299b"
+  },
+  {
+    "id": 14,
+    "name": "نابولي",
+    "votes": "654+",
+    "nVotes": "9k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F15.jpg?alt=media&token=d1a05a1d-2385-44e4-ae47-c81ce7d9af8f"
+  },
+  {
+    "id": 15,
+    "name": "فالنسيا",
+    "votes": "400+",
+    "nVotes": "6.3k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F22.jpg?alt=media&token=6167eeb8-9ba8-4d67-a81e-5a30404fcb2b"
+  },
+  {
+    "id": 16,
+    "name": "غلطة سراي",
+    "votes": "200+",
+    "nVotes": "3.2k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F24.jpg?alt=media&token=45575876-984f-456d-9b32-46fcf99aa13d"
+  },
+  {
+    "id": 17,
+    "name": "ليون",
+    "votes": "546+",
+    "nVotes": "3k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F23.jpg?alt=media&token=b61eb710-8b6d-43d7-8638-68cda0a808ac"
+  },
+  {
+    "id": 18,
+    "name": "شالكه",
+    "votes": "600+",
+    "nVotes": "6.9k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F12.jpg?alt=media&token=28229196-02bb-460a-8c67-ecc87815c103"
+  },
+  {
+    "id": 19,
+    "name": "سيسكا موسكو",
+    "votes": "314+",
+    "nVotes": "3.92k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F20.jpg?alt=media&token=f0727ce5-ce4c-4d75-a292-501a3b4cee82"
+  },
+  {
+    "id": 20,
+    "name": "موناكو",
+    "votes": "100+",
+    "nVotes": "3.1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F09.jpg?alt=media&token=23ccfa01-0da7-4792-9f34-07e6355215e0"
+  },
+  {
+    "id": 21,
+    "name": "آيندهوفن",
+    "votes": "122+",
+    "nVotes": "1.1k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F27.jpg?alt=media&token=1c10b4e9-3473-4105-b283-5784bca0583b"
+  },
+  {
+    "id": 22,
+    "name": "كلوب بروج",
+    "votes": "60+",
+    "nVotes": "2.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F03.jpg?alt=media&token=be2f1428-21dd-4ce4-9bb0-a54a5b846c4a"
+  },
+  {
+    "id": 23,
+    "name": "بورتو",
+    "votes": "70+",
+    "nVotes": "3k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F18.jpg?alt=media&token=1debfe72-a803-4984-9810-18a0f858e420"
+  },
+  {
+    "id": 24,
+    "name": "هوفنهايم",
+    "votes": "69+",
+    "nVotes": "4k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F13.jpg?alt=media&token=69cd9e65-737c-4294-b10c-e0d1c303d5db"
+  },
+  {
+    "id": 25,
+    "name": "شاختار دونيتسك",
+    "votes": "20+",
+    "nVotes": "1.9k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F25.jpg?alt=media&token=5e65fc41-d20f-4f54-a007-36e1011bb9c4"
+  },
+  {
+    "id": 26,
+    "name": "لوكوموتيف موسكو",
+    "votes": "151+",
+    "nVotes": "8.6k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F19.jpg?alt=media&token=b8034444-0078-4095-ada7-54743af8a09d"
+  },
+  {
+    "id": 27,
+    "name": "بنفيكا",
+    "votes": "50+",
+    "nVotes": "8.97k-",
+    "flag": "https://firebasestorage.googleapis.com/v0/b/liveplusplusapp.appspot.com/o/teamsimages%2F26.jpg?alt=media&token=2784743f-d38c-4d84-b380-53cad296f098"
+  }
+]
