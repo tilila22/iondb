@@ -2,10 +2,10 @@
    {
       "language":"ar",
       "promoteApps":false,
-      "isAdmobActive":true,
+      "isAdmobActive":false,
       "admobBannerUnit":"",
-      "admobInterstitialUnit1":"ca-app-pub-3940256099942544/1033173712",
-      "admobInterstitialUnit2":"ca-app-pub-3940256099942544/1033173712",
+      "admobInterstitialUnit1":"ca-app-pub-4639185808901805/3162297187",
+      "admobInterstitialUnit2":"ca-app-pub-4639185808901805/5780721661",
       "admobInterstitialUnit3":"",
       "isUnityActive":false,
       "unityInterstitialUnit":""
