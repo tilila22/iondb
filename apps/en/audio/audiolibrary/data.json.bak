@@ -1,8 +1,8 @@
 [
    {
       "id":1,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"Atomic Habits By James Clear",
       "author":"James Clear",
       "description":"People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.",
@@ -11,8 +11,8 @@
    },
    {
       "id":2,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"Life Is Short And So Is This Book",
       "author":"Peter Atkins",
       "description":"Life is short. You can, if you work hard and are lucky, get more of almost anything, but you can’t get more time. Time only goes one way. The average American has a lifespan of less than 30,000 days. So how you choose to live matters.",
@@ -21,9 +21,9 @@
    },
    {
       "id":3,
-	  "published":false,
-	  "type":"audiobook",
-	  "title":"Don't Believe Everything You Think By Joseph Nguyen",
+      "published":false,
+      "type":"audiobook",
+      "title":"Don't Believe Everything You Think By Joseph Nguyen",
       "author":"Joseph Nguyen",
       "description":"Don’t Believe Everything You Think’ is not about rewiring your brain, rewriting your past, positive thinking or anything of the sort. We cannot solve our problems with the same level of consciousness that created them. Tactics are temporary. An expansion of consciousness is permanent",
       "filelink":"https://ia801401.us.archive.org/33/items/03-dont-believe-everything-you-think-by-joseph-nguyen/03-dont-believe-everything-you-think-by-joseph-nguyen.mp3",
@@ -31,8 +31,8 @@
    },
    {
       "id":4,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"Master Your Emotions By Thibaut Meurisse",
       "author":"Thibaut Meurisse",
       "description":"Understanding how negative feelings and emotions work is the first step. Then we must learn how to reprogram those emotions and turn them around. A happier life is possible if you follow the steps.",
@@ -41,8 +41,8 @@
    },
    {
       "id":5,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"The Power Of Your Subconscious Mind By Dr Joseph Murphy",
       "author":"Dr Joseph Murphy",
       "description":"The Power of Your Subconscious Mind has been a bestseller since its first publication in 1963, selling many millions of copies since its original publication. ",
@@ -51,8 +51,8 @@
    },
    {
       "id":6,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"Think Straight Change Your Thoughts Change Your Life",
       "author":"Darius Foroux",
       "description":"99% of your thoughts are useless. William James, once the leading psychologist in America, and one of the founders of the philosophical school of pragmatism, put it best: 'A great many people think they are thinking when they are merely rearranging their prejudices.' ",
@@ -61,8 +61,8 @@
    },
    {
       "id":7,
-	  "published":false,
-	  "type":"audiobook",
+      "published":false,
+      "type":"audiobook",
       "title":"Win Your Inner Battles By Darius Foroux",
       "author":"Darius Foroux",
       "description":"In Win Your Inner Battles, You’ll learn: How to fight fear Find your purpose Become a leader Develop self-confidence Set goals that you will actually achieve What to do when things go wrong And how to live a GOOD life, free of stress and anxiety It’s a useful book. ",
@@ -71,12 +71,82 @@
    },
    {
       "id":8,
-	  "published":true,
-	  "type":"podcast",
-      "title":"_____",
-      "author":"_____",
-      "description": "_____",
+      "published":true,
+      "type":"podcast",
+      "title":"Anxiety, Trust, and the Pursuit of Happiness- THIS is a Life Changer",
+      "author":"Unknown",
+      "description":"_____",
       "filelink":"_____",
-	  "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/"
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod01.jpg"
+   },
+   {
+      "id":9,
+      "published":true,
+      "type":"podcast",
+      "title":"Discipline Is So Overrated",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod02.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":10,
+      "published":true,
+      "type":"podcast",
+      "title":"How to Connect with People - The HIDDEN POWER of Speech",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod03.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":11,
+      "published":true,
+      "type":"podcast",
+      "title":"How to Set Goals and Achieve Your Dreams",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod04.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":12,
+      "published":true,
+      "type":"podcast",
+      "title":"It's Already Started But People Don't See It - Brad Corrigan Reveals The Trut",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod05.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":13,
+      "published":true,
+      "type":"podcast",
+      "title":"Plan your Life by Setting Goals - Jim Rohn Goal Setting",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod06.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":14,
+      "published":true,
+      "type":"podcast",
+      "title":"The SCARY truth about MORALS vs. SANITY",
+      "author":"Unknown",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod07.jpg",
+      "filelink":"_____"
+   },
+   {
+      "id":15,
+      "published":true,
+      "type":"podcast",
+      "title":"WORK LIKE HELL - Joe Rogan Powerful Motivation 2023",
+      "author":"_____",
+      "description":"_____",
+      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod08.jpg",
+      "filelink":"_____"
    }
 ]
