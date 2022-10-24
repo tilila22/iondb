@@ -76,8 +76,9 @@
       "title":"Anxiety, Trust, and the Pursuit of Happiness- THIS is a Life Changer",
       "author":"Unknown",
       "description":"_____",
-      "filelink":"_____",
-      "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod01.jpg"
+	  "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod01.jpg",
+      "filelink":"https://ia804703.us.archive.org/2/items/pod-01-anxiety-trust-and-the-pursuit-of-happiness-this-is-a-life-changer/pod-01-anxiety-trust-and-the-pursuit-of-happiness-this-is-a-life-changer.mp3"
+      
    },
    {
       "id":9,
@@ -87,7 +88,7 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod02.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia601506.us.archive.org/17/items/pod-02-discipline-is-so-overrated/pod02-Discipline-Is-So-Overrated.mp3"
    },
    {
       "id":10,
@@ -97,7 +98,7 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod03.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia804703.us.archive.org/3/items/pod03-How-to-Connect-with-People-The-HIDDEN-POWER-of-Speech/pod03-How-to-Connect-with-People-The-HIDDEN-POWER-of-Speech.mp3"
    },
    {
       "id":11,
@@ -107,7 +108,7 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod04.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia601503.us.archive.org/4/items/pod04-How-to-Set-Goals-and-Achieve-Your-Dreams-Jim-Rohn-Motivation/pod04-How-to-Set-Goals-and-Achieve-Your-Dreams-Jim-Rohn-Motivation.mp3"
    },
    {
       "id":12,
@@ -117,7 +118,7 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod05.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia601408.us.archive.org/35/items/pod05-its-already-started-but-people-dont-see-it-brad-corrigan-reveals-the-truth/pod05-its-already-started-but-people-dont-see-it-brad-corrigan-reveals-the-truth.mp3"
    },
    {
       "id":13,
@@ -127,7 +128,7 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod06.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia601406.us.archive.org/15/items/pod06-Plan-your-Life-by-Setting-Goals-Jim-Rohn-Goal-Setting/pod06-Plan-your-Life-by-Setting-Goals-Jim-Rohn-Goal-Setting.mp3"
    },
    {
       "id":14,
@@ -137,16 +138,16 @@
       "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod07.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia904706.us.archive.org/6/items/pod07-The-SCARY-truth-about-MORALS-vs-SANITY/pod07-The-SCARY-truth-about-MORALS-vs-SANITY.mp3"
    },
    {
       "id":15,
       "published":true,
       "type":"podcast",
       "title":"WORK LIKE HELL - Joe Rogan Powerful Motivation 2023",
-      "author":"_____",
+      "author":"Unknown",
       "description":"_____",
       "imgurl":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/en/audio/audiolibrary/thumbs/pod08.jpg",
-      "filelink":"_____"
+      "filelink":"https://ia904705.us.archive.org/12/items/pod08-WORK-LIKE-HELL-Joe-Rogan-Powerful-Motivation-2023/pod08-WORK-LIKE-HELL-Joe-Rogan-Powerful-Motivation-2023.mp3"
    }
 ]
