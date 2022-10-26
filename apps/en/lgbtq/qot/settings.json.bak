@@ -2,10 +2,10 @@
    {
       "language":"en",
       "promoteApps":true,
-      "isUnityActive":true,
+      "isUnityActive":false,
       "gameId":"4904525",
       "unityInterstitialUnit":"Interstitial_Android",
-      "isAdmobActive":true,
+      "isAdmobActive":false,
       "admobBannerUnit":"",
       "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712"
    }
