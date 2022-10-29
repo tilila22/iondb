@@ -2,11 +2,11 @@
    {
       "language":"ar",
       "promoteApps":false,
-      "isAdmobActive":false,
-	  "admobBannerUnit":"ca-app-pub-3940256099942544/6300978111",
-	  "admobInterstitialUnit1":"ca-app-pub-3940256099942544/1033173712",
-	  "admobInterstitialUnit2":"ca-app-pub-3940256099942544/1033173712",
-	  "admobInterstitialUnit3":"ca-app-pub-3940256099942544/1033173712",
+      "isAdmobActive":true,
+	  "admobBannerUnit":"",
+	  "admobInterstitialUnit1":"ca-app-pub-4639185808901805/5538493132",
+	  "admobInterstitialUnit2":"ca-app-pub-4639185808901805/3678147367",
+	  "admobInterstitialUnit3":"ca-app-pub-4639185808901805/9388788980",
       "isUnityActive":false,
       "unityInterstitialUnit":""
    }
