@@ -1,0 +1,13 @@
+[
+   {
+      "language":"en",
+      "promoteApps":true,
+      "isAdmobActive":true,
+	  "admobBannerUnit":"ca-app-pub-3940256099942544/6300978111",
+	  "admobInterstitialUnit1":"ca-app-pub-3940256099942544/1033173712",
+	  "admobInterstitialUnit2":"ca-app-pub-3940256099942544/1033173712",
+      "isUnityActive":false,
+	  "gameId":"",
+      "unityInterstitialUnit":"Interstitial_Android"
+   }
+]
