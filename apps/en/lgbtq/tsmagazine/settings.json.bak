@@ -6,7 +6,7 @@
       "admobBannerUnit":"",
       "admobInterstitialUnit1":"ca-app-pub-8767412980966430/5888140633",
       "admobInterstitialUnit2":"ca-app-pub-8767412980966430/5888140633",
-	  "admobInterstitialUnit3":"ca-app-pub-8767412980966430/5888140633",
+	  "admobInterstitialUnit3":"",
       "isUnityActive":false,
       "gameId":"",
       "unityInterstitialUnit":"Interstitial_Android"
