@@ -2,8 +2,8 @@
 	{
 		"id": 0,
 		"question": "من فاز بكأس العالم لسنة 1994 ؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/01.jpg",
+		"ads": false,
+		"img": "01.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -23,8 +23,8 @@
 	{
 		"id": 1,
 		"question": "من يكون هذا اللاعب؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/02.jpg",
+		"ads": true,
+		"img": "02.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -44,8 +44,8 @@
 	{
 		"id": 2,
 		"question": "كم من الوقت يمكن لحارس مرمى التمسك بالكرة؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/03.jpg",
+		"ads": false,
+		"img": "03.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -65,8 +65,8 @@
 	{
 		"id": 3,
 		"question": "أنفيلد هو موطن أي نادي إنجليزي؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/04.jpg",
+		"ads": false,
+		"img": "04.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -86,8 +86,8 @@
 	{
 		"id": 4,
 		"question": "أين أقيمت أول بطولة لكأس العالم لكرة القدم؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/05.jpg",
+		"ads": false,
+		"img": "05.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -107,8 +107,8 @@
 	{
 		"id": 5,
 		"question": "في إي دولة أقيمت أول بطولة لكأس القارات؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/06.jpg",
+		"ads": false,
+		"img": "06.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -128,8 +128,8 @@
 	{
 		"id": 6,
 		"question": "من هو اللاعب في الصورة؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/07.jpg",
+		"ads": false,
+		"img": "07.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -149,8 +149,8 @@
 	{
 		"id": 7,
 		"question": "من هو اللاعب في الصورة؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/08.jpg",
+		"ads": true,
+		"img": "08.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -170,8 +170,8 @@
 	{
 		"id": 8,
 		"question": "إلى أي فريق إنجليزي يلعب هذا اللاعب؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/09.jpg",
+		"ads": false,
+		"img": "09.jpg",
 		"choices": [
 			{
 				"id": 1,
@@ -191,8 +191,8 @@
 	{
 		"id": 9,
 		"question": "كم مرة فاز هذا الفريق بدوري أبطال أروبا؟",
-		"hasimg": true,
-		"img": "https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/beim/imgs/10.jpg",
+		"ads": true,
+		"img": "10.jpg",
 		"choices": [
 			{
 				"id": 1,
