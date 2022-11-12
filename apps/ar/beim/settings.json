@@ -2,8 +2,8 @@
    {
       "language":"ar",
       "promoteApps":true,
-      "isAdmobActive":true,
-	  "admobBannerUnit":"ca-app-pub-3940256099942544/6300978111",
+      "isAdmobActive":false,
+	  "admobBannerUnit":"",
 	  "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
       "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
