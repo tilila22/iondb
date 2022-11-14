@@ -3,8 +3,8 @@
       "language":"ar",
       "promoteApps":true,
       "isAdmobActive":false,
-	  "admobBannerUnit":"ca-app-pub-3940256099942544/6300978111",
-	  "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
+	  "admobBannerUnit":"",
+	  "admobInterstitialUnit":"ca-app-pub-4639185808901805/6826455812",
       "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
