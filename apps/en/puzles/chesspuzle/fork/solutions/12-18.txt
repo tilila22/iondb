@@ -1,0 +1,54 @@
+12.
+
+13.
+
+14.
+
+16.
+
+17.
+
+18.
+
+White's knight on d4 is under
+attack and Black is even
+threatening checkmate in one.
+‘White can solve all those
+problems and even win an
+exchange. 1. N{5+! gxf5 2. Qg5+.
+White sacrifices the queen to
+remove the guard of the e6
+pawn. 1. Qxf7+! Rxf7 2. Nxe6+.
+White could win the exchange
+back by capturing on £7 right
+away. But with a nice queen
+sacrifice in the corner, 1. Qh8+!
+Kxh8 2. Nxf7+, White wins a
+whole rook.
+
+. Here White combines a
+
+checkmate threat with attacking
+Black’s bishop. 1. Qd3 Rad8 (1
+
+«-. 96 2. Qxd6) 2. Qh7+ KiB 5.
+Qh8#.
+
+White trades with 1. Bxd7 Qxd7,
+and now that the bishop on 3 is
+unprotected the fork is played: 2.
+Qc4+. On the other the
+immediate 1. Qe4+ is not
+sufficient, because of 1 ... Be6.
+White could give a knight fork if
+Black’s knight were not
+protecting the c7 pawn.
+Therefore, White trades with 1
+Bxa6 bxa6 and then 2. Nxc7+.
+In this example, White needs to
+remove the guard of the crucial
+d5 square. It can be
+accomplished by 1. e5 Ne8 and
+now White wins the rook in the
+corner with 2, Qd5+.
+

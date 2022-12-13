@@ -1,0 +1,49 @@
+19, Here White uses the decoy
+method by sacrificing a rook: 1
+Ra8+t, forcing the Black queen
+to be the victim of a fork: 1.
+Qud8 2. NI7+.
+
+20, White wins at least a piece with
+1. Rxc6! bxc6 2. Qxc6+ and then
+takes the unprotected rook on a8,
+
+21, Black would be doing okay if
+the rook were not on b8, an
+unprotected square. With a
+smart exchange sacrifice, White
+gains a material advantage. |
+Rxf6! gxf6 2. Qg3+. The
+immediate 1. Qg5 is not so
+successful because of 1. ... Rb6,
+
+22. With a simple trade White
+removes the guard of the d5
+pawn (the black knight): 1. Bxf6
+Qxf6 and then 2. Qxd5+ forks.
+
+23, Again Black has a problem with
+the rook on an unsafe square.
+After a decoy check, 1. Qe++,
+
+the Black king is forced to step
+on the h-file: 1. Kh8 and then
+2. Qh4+ wins.
+
+24, In this position White uses a pin
+to decoy the Black king into a
+fork: 1, Nb6+ Kb8 2, Nd7+.
+
+25. Black seems to do fine, except
+for having the rook on an
+unprotected square. All of a
+sudden, the White queen swings
+cover to the other side of the
+board: 1. Qb8+ Kg7 2. Qb2+.
+
+26, White would have some
+advantage after 1. Ne6 Qg8 2
+Ra8+, but White should not
+settle for that. With the right
+move White forces the Black
+

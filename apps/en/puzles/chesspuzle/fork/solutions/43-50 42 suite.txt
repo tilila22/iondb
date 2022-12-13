@@ -1,0 +1,56 @@
+43.
+
+45.
+
+46,
+
+47.
+
+48.
+
+49.
+
+50.
+
+stopping it. White has an
+unexpected way to make this
+idea work, however: 1. Qd4
+Qxd4 2. exd4 Ne6 5. Ne7+.
+Again the knight is the hero! 1
+Nf6+ Kg7 2. Qxf8+! Kxf8 3.
+Nxh7+.
+
+1. Rxa7 Rxa7 2. Rxd4! exd4 3.
+
+Bxd4+. Now Black is almost
+saved with 3. ... Rg7, but 4. h6
+wins by using the pin
+
+Pawns can fork tool 1. g6+ Kg8
+2. Bet+ Kh8 3. g7+.
+
+This is one of the prettiest
+forking ideas I know. After a
+queen sacrifice White uses an
+underpromotion! 1, Re8+
+Rxe8 2. Qxa7+! Kxa7 3.
+bxe8N+1.
+
+As in the previons diagram, a
+queen sacrifice and a knight
+promotion! 1. Qe8+ Kf6 2.
+Qxe6+! Kxe6 3. d8N+!.
+
+A fun example of a decoy to
+achieve a fork. 1. d5+! Kxd5 2.
+c4+! Kxe4 3, Nd2+.
+
+Black has a cute way to win a
+piece: 1... Bxc3 2. bxe3 Nd5! 3.
+Qxet Nxe3+
+
+By giving two simple checks
+Black forces the White king into
+a fork: 1... Rel+ 2. Kg2 R&e2+
+3. Kf3 Red+.,
+
