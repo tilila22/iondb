@@ -1,53 +1,22 @@
-35.
+used in a very beneficial way: 1. f8Q+ Kxf8 and now 2. Bxd6+. 
 
-36.
 
-37.
+35. As in the previous example, here too White needs to promote the pawn by 1. g8Q+1 Kxg8 and then 2. Nf6+.
 
-38.
+36. Black has a way to sacrifice the queen and get two rooks and a knight in exchange: 1. ... Qxc3! 2. Rxc3 Nxd1 3. Qd2 Nxc3. 
 
-39.
+37. Here White needs to trade first, followed by a decoy combination. 1. Bxg7 Qxg7 2. Qxe5! Qxe5 3. Nf7+, winning a piece.
 
-41.
 
-42.
+38. Amazingly, White here is able to force the Black king to either g8 or h7, where it can be forked: 1. Rb8+ Kg7 2. Rg8+! (this is the key move!) 2.... Kxg8 3. Nf6+. 
 
-used ina very beneficial way: 1.
-{8Q+! Kxf8 and now 2. Bxd6+
-As in the previous example, here
-too White needs to promote the
-pawn by 1. g8Q+! Kxg8 and
-then 2. Nf6+.
+39. After a simple check, by sacrificing the bishop Black forces the White king into a fork: 1.... Nc3+ 2. Ka1 Bb2+! 3.
+Kxb2 Nd1+.
 
-Black has a way to sacrifice the
-queen and get two rooks and a
-knight in exchange: 1. ... Qxc3!
-2. Rxc3 Nxdl 3, Qd2 Nxc3.
-Here White needs to trade first,
-followed by a decoy combination.
-1. Bxg7 Qug7 2. Qxe5! Qxed 3.
-N{7+, winning a piece
-Amazingly, White here is able to
-force the Black king to either g8
-or h7, where it can be forked: 1.
-Rb8+ Kg7 2. Rg8+! (this is the
-key move!) 2. ... Kxg8 3. Nf6-+.
-After a simple check, by
-sacrificing the bishop Black
-forces the White king into a
 
-fork: 1. ... Ne3+ 2. Kal Bb2+! 3.
-Kxb2 NdI+.
+40. Here Black simplifies the position by a double sacrifice: 1. ... Qxf4! 2. Qxf4 Rg1+! 3. Kxg1 Nxe2+.
 
-Here Black simplifies the
-position by a double sacrifice: 1
-«+ Qxf4! 2, Quf4 Rett! 3. Kxgt
-Nxe2+,
 
-First a decoy, then a queen sac
-and finally the fork: 1. Qh4+
-Kg7 2. Qxd8! Qxd8 3, Ne6+
+41. First a decoy, then a queen sac and finally the fork: 1. Qh4+ Kg7 2. Qxd8! Qxd8 3. Ne6+.
 
-1, Nc7+ is an obvious fork idea,
-but for now the Black queen is
-
+42. 1. Nc7+ is an obvious fork idea, but for now the Black queen is
