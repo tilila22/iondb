@@ -5,8 +5,8 @@
       "isUnityActive":false,
       "gameId":"4276087",
       "unityInterstitialUnit":"Interstitial_Android",
-      "isAdmobActive":false,
+      "isAdmobActive":true,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712"
+      "admobInterstitialUnit":"ca-app-pub-8767412980966430/4828580846"
    }
 ]
