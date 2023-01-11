@@ -1,107 +1,636 @@
 [
    {
       "id":1,
-      "question":"هل انت شخص شديد الغرور بنفسك وتمتاز بحساسية مفرطة تجاه من ينتقدك؟",
+      "question":"هل أنت رجل أو إمرأة؟",
       "hasimg":false,
-      "img":"default.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/01.jpg",
       "choices":[
          {
             "id":1,
-            "answer":"نعم انا شخص مغرور"
+            "answer":"إمرأة"
          },
          {
             "id":2,
-            "answer":"أحيانا اشعر بأني مغرور وأكره أي انتقاد"
-         },
-         {
-            "id":3,
-            "answer":"لا، لا اشعر بأني مغرور على الإطلاق"
-         }
-      ],
-      "answer":3
-   },
-   {
-      "id":2,
-      "question":"هل تعطي أهمية وأولوية لشعور الاخرين من حولك؟",
-      "hasimg":false,
-      "img":"default.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":" لا، لا اشعر بأن شعور الاخرين له أهمية بالنسبة لي."
-         },
-         {
-            "id":2,
-            "answer":" أحيانا اشعر بما يشعر به الاخرين وأهتم لمشاعرهم."
-         },
-         {
-            "id":3,
-            "answer":" نعم فدائماً ما اهتم لشعور من حولي وأحاول ان لا اجرح أحد."
-         }
-      ],
-      "answer":3
-   },
-   {
-      "id":3,
-      "question":"هل تشعر بأن لديك الرغبة في تسخير الاخرين لخدمتك او العمل لديك؟",
-      "hasimg":false,
-      "img":"default.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":" نعم أحب ان اشعر بأن الاخرين يخدمونني"
-         },
-         {
-            "id":2,
-            "answer":" لا اعرف."
-         },
-         {
-            "id":3,
-            "answer":" لا فأنا لا أحب ان يكون الاخرين مشغولين بخدمتي ومساعدتي"
-         }
-      ],
-      "answer":3
-   },
-   {
-      "id":4,
-      "question":"هل ينتابك شعور بأنك مهم لدرجة أنك تستحق ان تكون مركزاً للكون؟",
-      "hasimg":false,
-      "img":"default.jpg",
-      "choices":[
-         {
-            "id":1,
-            "answer":"لا ينتابني هذا الشعور واشعر بأني شخص عادي"
-         },
-         {
-            "id":2,
-            "answer":"نعم اشعر بذلك الشعور دائماً"
-         },
-         {
-            "id":3,
-            "answer":"ربما ينتابني شعور كهذا أحيانا"
+            "answer":"رجل"
          }
       ],
       "answer":1
    },
    {
-      "id":5,
-      "question":"هل تحب اشيائك الشخصية وامورك الخاصة وتشعر بأن لا يحق لغيرك لمسها؟",
+      "id":2,
+      "question":"كيف تصف دائرة أصدقائك من حيث العدد؟",
       "hasimg":false,
-      "img":"default.jpg",
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/02.jpg",
       "choices":[
          {
             "id":1,
-            "answer":" نعم لدي أشيائي الخاصة وهي شيء عظيم بالنسبة لي"
+            "answer":"صغيرة جدا، لأني أفضّل جودة الصداقة على كثرة الأصدقاء"
          },
          {
             "id":2,
-            "answer":" ليست مشكلة ان لمس أحدهم اشيائي الخاصة دون ان يتلفها"
-         },
-         {
-            "id":3,
-            "answer":" أشيائي الخاصة أعطيها شيء من الاهتمام ولكن ليس بشكل مفرط"
+            "answer":"كبيرة، فأنا شخص اجتماعي وأكوّن صداقات حيثما أذهب"
          }
       ],
       "answer":2
+   },
+   {
+      "id":3,
+      "question":"وجودي مع الناس يجعلني أشعر",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/03.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"بالسعادة والنشاط"
+         },
+         {
+            "id":2,
+            "answer":"بالارهاق بعض الشيء"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":4,
+      "question":"إذا خُيّرتُ بين العمل كعضو مع فريق أو العمل لوحدي، فإنني أفضل",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/04.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"العمل مع الفريق"
+         },
+         {
+            "id":2,
+            "answer":"العمل لوحدي"
+         }
+      ],
+      "answer":3
+   },
+   {
+      "id":5,
+      "question":"عندما تواجهني مشكلة شخصية، أفضّل أن",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/05.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أطلب النصيحة والمساعدة من الآخرين"
+         },
+         {
+            "id":2,
+            "answer":"أحلها بمفردي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":6,
+      "question":"كيف تقضي وقت فراغك عادة، أو ما هي طريقتك في تجديد طاقتك بعد قضاء يوم مرهق في العمل؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/06.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"الجلوس والاسترخاء في المنزل ومشاهدة التلفزيون أو الإنترنت، أو قراءة كتاب جيد"
+         },
+         {
+            "id":2,
+            "answer":"أحب الخروج مع الأصدقاء لقضاء وقت ممتع معهم"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":7,
+      "question":"عندما تتولد لديك فكرة جديدة، ماذا تفعل عادة؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/07.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أحب مشاركتها مع الآخرين لأني واثق من أفكاري"
+         },
+         {
+            "id":2,
+            "answer":"لا أفضّل مشاركة فكرتي مع الآخرين إلا بعد أن يطرح نفس الفكرة شخص غيري"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":8,
+      "question":"هل في العادة",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/08.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تتكلم قبل أن تفكر؟"
+         },
+         {
+            "id":2,
+            "answer":"تفكر قبل أن تتكلم؟"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":9,
+      "question":"هل أنت معروف بين أصدقائك بكونك",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/09.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"مستمع جيد؟"
+         },
+         {
+            "id":2,
+            "answer":"متحدث جيد؟"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":10,
+      "question":"إذا قاطعك أحد وأنت تعمل، هل",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/10.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تغتنم الفرصة وتأخذ استراحة من العمل"
+         },
+         {
+            "id":2,
+            "answer":"تشعر بالانزعاج، لأنك لا تحب من يقاطع عملك"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":11,
+      "question":"هل تفضل الدورات التدريبية ذات التمارين العملية أم المحاضرات النظرية؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/11.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"التدريب العملي"
+         },
+         {
+            "id":2,
+            "answer":"المحاضرات النظرية"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":12,
+      "question":"هل في العادة تفضل فهم الأشياء",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/12.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"بصورة كلية أولاً؟"
+         },
+         {
+            "id":2,
+            "answer":"بصورة تفصيلية أولاً؟"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":13,
+      "question":"في علاقتي مع الآخرين، دائما ما أعتقد أنه",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/13.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"هناك مجال للتطوير والتحسين دائما"
+         },
+         {
+            "id":2,
+            "answer":"إذا لم يوجد خلل في العلاقة بيننا، فلا أهتم بالتحسين"
+         }
+      ],
+      "answer":1
    }
+   ,
+   {
+      "id":14,
+      "question":"أنا أثق أكثر",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/14.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"في الملاحظة الدقيقة والمباشرة للأشياء والحقائق الواقعية"
+         },
+         {
+            "id":2,
+            "answer":"في حدسي وفهم معاني الأمور"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":15,
+      "question":"عندما يكون معك شخص متضايق، هل يمكنك معرفة السبب بسهولة؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/15.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم ، فأنا أجيد قراءة وفهم الآخرين"
+         },
+         {
+            "id":2,
+            "answer":"لا، ما لم يخبرني بشكل مباشر وصريح"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":16,
+      "question":"عندما تتمشى بمفردك، ما الذي تجد نفسك تلاحظه؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/16.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"عادة ما أكون غير مدرك لما يحيط بي، وأجد نفسي غارقا في التفكير"
+         },
+         {
+            "id":2,
+            "answer":"عادة ما أكون مدركًا جدًا، وأركز على كل ما يجري من حولي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":17,
+      "question":"كيف تشعر إذا عُرضت عليك وظيفة في شركة ناشئة؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/17.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"متحمس جدا"
+         },
+         {
+            "id":2,
+            "answer":"قلق جدا، لأني أفضّل العمل في شركة مستقرة"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":18,
+      "question":"عندما أصف حدثا ما",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/18.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أبالغ في وصفه وأجعله مثيرا"
+         },
+         {
+            "id":2,
+            "answer":"لا أميل إلى المبالغة، بل أصف الحدث كما هو"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":19,
+      "question":"عندما أكون مع أصدقائي، أفضّل الحديث عن",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/19.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"المستقبل وتطوير الأشياء وعن التجارب العلمية"
+         },
+         {
+            "id":2,
+            "answer":"الأمور الواقعية والعملية والمادية"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":20,
+      "question":"ما هو شعورك تجاه الخلافات؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/20.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"الخلافات جزء ضروري من الحياة، ولكن يمكن التعامل معها بأسلوب لبق"
+         },
+         {
+            "id":2,
+            "answer":"أتجنب الخلافات بكل جهدي، لأنها تجعلني أشعر بعدم الارتياح"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":21,
+      "question":"عند اتخاذ قرار مهم في الحياة، ما الذي تفكر فيه أولاً؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/21.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"مشاعرك الشخصية"
+         },
+         {
+            "id":2,
+            "answer":"النظر في جميع الخيارات المتاحة"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":22,
+      "question":"إذا حدث خلاف بين شخصين تعرفهما وطلبا منك الحكم بينهما، فهل",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/22.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تركز على تحقيق العدل بينهما بغض النظر عن علاقتك بهما"
+         },
+         {
+            "id":2,
+            "answer":"تتعاطف مع أقربهما إلى قلبك"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":23,
+      "question":"ما هو أفضل أسلوب لإقناعك؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/23.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"بالتأثير العاطفي عليك"
+         },
+         {
+            "id":2,
+            "answer":"بتقديم تفسير منطقي لك"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":24,
+      "question":"أغلب قراراتي تعتمد على",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/24.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"عواطفي بشكل أساسي، ولكن في بعض الأحيان عقلي"
+         },
+         {
+            "id":2,
+            "answer":"عقلي بشكل أساسي، ولكن في بعض الأحيان عواطفي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":25,
+      "question":"عندما يحدث اختلاف في وجهات النظر بيني وبين أحد أصدقائي، فأنا",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/25.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أبذل كل جهدي حتى لا أجرح مشاعره"
+         },
+         {
+            "id":2,
+            "answer":"أعبر عن رأيي فيه بصراحة وبطريقة مباشرة، حتى إن كان ذلك قد يجرح مشاعره"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":26,
+      "question":"ما الذي يزعجك أكثر: شخص جاهل غير قادر على التفكير بمنطق، أم شخص جامد يفتقر للمشاعر ولا يتعاطف؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/26.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"تتضايق من الجهل"
+         },
+         {
+            "id":2,
+            "answer":"تتضايق من عدم التعاطف"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":27,
+      "question":"عادة ما يصفني الناس بأني",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/27.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"دافئ المشاعر وحساس"
+         },
+         {
+            "id":2,
+            "answer":"صريح ومنطقي في كلامي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":28,
+      "question":"إذا كنتَ بحاجة إلى نصيحة من صديق، فإلى من تتوجه",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/28.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"الصديق الذي يتفهم مشاعرك ويتعاطف معك ويطبطب عليك"
+         },
+         {
+            "id":2,
+            "answer":"الصديق الذي يجد لك الحل بغض النظر عن مشاعره تجاهك"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":29,
+      "question":"هل تلتزم بالتخطيط المُسبق؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/29.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"نعم، يمكنني التخطيط مسبقًا وعادة ما ألتزم بالخطة"
+         },
+         {
+            "id":2,
+            "answer":"لا، فعادةً ما أغير خططي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":30,
+      "question":"هل عادة ما تتخذ قرارات سريعة، أم تقضي وقتا كافيا للنظر إليها من جوانب مختلفة؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/30.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أتخذ قرارات سريعة، وأنا واثق من كل قرار أتخذه"
+         },
+         {
+            "id":2,
+            "answer":"أتخذ قرارات منطقية ومدروسة قد تستغرق الكثير من الوقت، لكنها دائمًا قرارات صائبة"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":31,
+      "question":"عندما أذهب للقاء صديق، فأنا أفضّل",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/31.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أن أعرف مسبقاً تفاصيل اللقاء؛ أين سنذهب وماذا سنفعل"
+         },
+         {
+            "id":2,
+            "answer":"لا أفكر في الأمر كثيرا، وأترك الأمور تسير على طبيعتها"
+         }
+      ],
+      "answer":2
+   },
+   {
+      "id":32,
+      "question":"هل تفضل حسم الأمور بسرعة، أم تترك خياراتك مفتوحة؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/32.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أحسم أمري بسرعة، وأصل إلى قرارات محددة"
+         },
+         {
+            "id":2,
+            "answer":"أفضل أن أترك خياراتي مفتوحة، وأن أجمع معلومات أكثر"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":33,
+      "question":"دائمًا ما أفضّل أن",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/33.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أستمر في عمل محدد حتى أكمله"
+         },
+         {
+            "id":2,
+            "answer":"أستمتع بالقيام بأكثر من عمل واحد في نفس الوقت"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":34,
+      "question":"هل في العادة تتأخر عن مواعيدك، أم تذهب في الوقت المحدد ؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/34.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أحب الذهاب إلى مواعيدي مبكرا أو الوصول في الوقت المحدد"
+         },
+         {
+            "id":2,
+            "answer":"في العادة أصل متأخرا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":35,
+      "question":"إذا زارك أصدقاؤك دون علم مسبق، كيف يكون رد فعلك؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/35.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"أكون سعيداً برؤيتهم"
+         },
+         {
+            "id":2,
+            "answer":"أنزعج قليلا، لأني أفضّل أن يكون لديّ علم مسبق بمجيئهم لكي أجهز نفسي"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":36,
+      "question":"تمت دعوتك لحضور حفل زفاف صديقك، فمتى تفكر في شراء الهدية؟",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/36.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"قبل موعد الزفاف بفترة، فأنا عادة ما أعرف الأشياء التي يحبها"
+         },
+         {
+            "id":2,
+            "answer":"قبل موعد الزفاف بيوم أو يومين، وفي بعض الأحيان أهدي له مبلغا ماليًا"
+         }
+      ],
+      "answer":1
+   },
+   {
+      "id":37,
+      "question":"عادة ما يكون يومي قائما على",
+      "hasimg":false,
+      "img":"https://raw.githubusercontent.com/tilila22/iondb/main/apps/ar/testperso/imgs/37.jpg",
+      "choices":[
+         {
+            "id":1,
+            "answer":"مواعيد محددة وتنظيم مسبق لأنني أجهز جدول أعمالي يوميا"
+         },
+         {
+            "id":2,
+            "answer":"التلقائية والعفوية، فأنا أترك الأمور تسير بأريحية وبدون تحديد مسبق"
+         }
+      ],
+      "answer":1
+   }
+
+
+
+
 ]
