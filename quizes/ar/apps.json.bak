@@ -1,45 +1,38 @@
 [
-	{
-	  "name":"اختبار الحب الحقيقي بالاسئلة",
-	  "androidId":"com.kritiqapps.testlovear",
+   {
+      "name":"اختبار الحب الحقيقي بالاسئلة",
+      "androidId":"com.kritiqapps.testlovear",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/cTx1QZSix1aGI8cmnrZOM0dgb1pbH4vry7EX0drwbPs1k0zewYhnHyFRVpzZHKISeqM=w240-h480",
-
-	},
-		{
-	  "name":"اختبار الغباء اكتشف نسبة غبائك",
-	  "androidId":"com.kritiqapps.teststupidity",
+      "imgUrl":"https://play-lh.googleusercontent.com/cTx1QZSix1aGI8cmnrZOM0dgb1pbH4vry7EX0drwbPs1k0zewYhnHyFRVpzZHKISeqM=w240-h480"
+   },
+   {
+      "name":"اختبار الغباء اكتشف نسبة غبائك",
+      "androidId":"com.kritiqapps.teststupidity",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/Gqvs3Tva_U4zkD1byBhmCpGtUVwTHHGqmdMgjFimGBw8YV88gZooWoMI9_k0ybbgiQI=w240-h480",
-
-	},
-	{
-	  "name":"ألغاز للإذكياء فقط مع الحلول",
-	  "androidId":"com.kritiqapps.testalghazar",
+      "imgUrl":"https://play-lh.googleusercontent.com/Gqvs3Tva_U4zkD1byBhmCpGtUVwTHHGqmdMgjFimGBw8YV88gZooWoMI9_k0ybbgiQI=w240-h480"
+   },
+   {
+      "name":"ألغاز للإذكياء فقط مع الحلول",
+      "androidId":"com.kritiqapps.testalghazar",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/4Lc3AnXryTPVgCd4ZzmjrJJdPs6Kdek3WN1QuKKqhRh_zx6R3FeOnN2ouQKMaO2oZQY=w240-h480",
-
-	},
-	{
-	  "name":"اختبار مفهومك عن الإسلام",
-	  "androidId":"com.kritiqapps.testislam",
+      "imgUrl":"https://play-lh.googleusercontent.com/4Lc3AnXryTPVgCd4ZzmjrJJdPs6Kdek3WN1QuKKqhRh_zx6R3FeOnN2ouQKMaO2oZQY=w240-h480"
+   },
+   {
+      "name":"اختبار مفهومك عن الإسلام",
+      "androidId":"com.kritiqapps.testislam",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/tRTKnTiTBg5pOr4D3afp5pk3m-pxOyJrjuAne4NqE1TpBIy80xU1jYGPNS9ioSTatT8L=w240-h480",
-
-	},
-	{
-	  "name":"اختبار المعلومات الجغرافية",
-	  "androidId":"com.kritiqapps.geographytest",
+      "imgUrl":"https://play-lh.googleusercontent.com/tRTKnTiTBg5pOr4D3afp5pk3m-pxOyJrjuAne4NqE1TpBIy80xU1jYGPNS9ioSTatT8L=w240-h480"
+   },
+   {
+      "name":"اختبار المعلومات الجغرافية",
+      "androidId":"com.kritiqapps.geographytest",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/zS5nyZiVTQwfdO5hmdLSfO_4ZcsKD8gGOtgNEJB6H2Hinb1MhCWD2opIT61WcdTjMMA=w240-h480",
-
-	},
-	{
-	  "name":"كنانة ـ لعبة كلمات وذكاء معرفي",
-	  "androidId":"com.kritiqapps.kinanagame",
+      "imgUrl":"https://play-lh.googleusercontent.com/zS5nyZiVTQwfdO5hmdLSfO_4ZcsKD8gGOtgNEJB6H2Hinb1MhCWD2opIT61WcdTjMMA=w240-h480"
+   },
+   {
+      "name":"كنانة ـ لعبة كلمات وذكاء معرفي",
+      "androidId":"com.kritiqapps.kinanagame",
       "iosId":"00000",
-	  "imgUrl":"https://play-lh.googleusercontent.com/y8Zhnm6sem7FkpbiQjLvrhLucFpY7HCyMj_3iXLcvzQ-o9qZAoxj8g2STRkzX4lbV38=w240-h480",
-
-	}
-	
+      "imgUrl":"https://play-lh.googleusercontent.com/y8Zhnm6sem7FkpbiQjLvrhLucFpY7HCyMj_3iXLcvzQ-o9qZAoxj8g2STRkzX4lbV38=w240-h480"
+   }
 ]
