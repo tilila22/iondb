@@ -3,9 +3,9 @@
       "language":"ar",
       "promoteApps":true,
       "isAdmobActive":false,
+	  "isUnityActive":false,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
-      "isUnityActive":false,
+      "admobInterstitialUnit":"ca-app-pub-4639185808901805/3773483652",
       "unityInterstitialUnit":""
    }
 ]
