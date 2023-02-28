@@ -1,11 +1,11 @@
 [
    {
       "language":"en",
-      "promoteApps":true,
+      "promoteApps":false,
       "isAdmobActive":true,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"a-app-pub-8767412980966430/7812907536",
-      "isUnityActive":true,
+      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
+      "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
 ]
