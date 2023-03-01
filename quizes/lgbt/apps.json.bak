@@ -1,5 +1,11 @@
 [
    {
+      "name":"Trans Dating App",
+      "androidId":"com.kritiqapps.transenger",
+      "iosId":"00000",
+      "imgUrl":"https://play-lh.googleusercontent.com/VHoVhySmiWnz2uMmo7B5U8fRVtFEoVqecWq1IR07WN0Z0_WbQnFDNJ1PQTkRFIoOrXQ=w240-h480"
+   },
+   {
       "name":"LGBT True/False",
       "androidId":"com.kritiqapps.transgenderstrueorfalse",
       "iosId":"00000",
@@ -52,5 +58,11 @@
       "androidId":"com.kritiqapps.tswallpaper",
       "iosId":"00000",
       "imgUrl":"https://play-lh.googleusercontent.com/NNXgL0PyuWWJnUsuZqnAWHYcjryqfH5jZ42_uyyWMgrbgZ3Nn6_yl5x8WUbzs6gf-u0C=w480-h960"
+   },
+   {
+      "name":"Transgenders Christmas wallpapers",
+      "androidId":"com.kritiqapps.xmaspics",
+      "iosId":"00000",
+      "imgUrl":"https://play-lh.googleusercontent.com/HogONYhTN8ThcS3ZYD2V5t-mQi4_IbKY08djVWH_CPwbP84xDrYDwMUgq28avrNFSksf=w480-h960"
    }
 ]
