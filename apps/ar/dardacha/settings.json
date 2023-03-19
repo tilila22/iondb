@@ -1,0 +1,11 @@
+[
+   {
+      "language":"en",
+      "promoteApps":false,
+      "isAdmobActive":false,
+      "admobBannerUnit":"",
+      "admobInterstitialUnit":"",
+      "isUnityActive":false,
+      "unityInterstitialUnit":"Interstitial_Android"
+   }
+]
