@@ -4,7 +4,7 @@
       "promoteApps":true,
       "isAdmobActive":false,
       "admobBannerUnit":"",
-      "admobInterstitialUnit":"",
+      "admobInterstitialUnit":"ca-app-pub-4639185808901805/3587075963",
       "isUnityActive":false,
       "unityInterstitialUnit":""
    }
