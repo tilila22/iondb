@@ -2,7 +2,7 @@
    {
       "language":"ar",
       "promoteApps":false,
-      "isAdmobActive":false,
+      "isAdmobActive":true,
       "admobBannerUnit":"",
       "admobInterstitialUnit":"ca-app-pub-4639185808901805/5506702220",
       "isUnityActive":false,
