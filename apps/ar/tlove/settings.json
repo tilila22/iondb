@@ -5,6 +5,7 @@
       "isAdmobActive":true,
       "admobBannerUnit":"",
       "admobInterstitialUnit":"ca-app-pub-4639185808901805/5547524626",
+	  "admobRewardUnit": "ca-app-pub-4639185808901805/8266608805",
       "isUnityActive":false,
       "unityInterstitialUnit":"Interstitial_Android"
    }
