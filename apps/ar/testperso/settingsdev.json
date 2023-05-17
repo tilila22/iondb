@@ -1,0 +1,12 @@
+[
+   {
+      "language":"ar",
+      "promoteApps":true,
+      "isAdmobActive":true,
+      "admobBannerUnit":"",
+      "admobInterstitialUnit":"ca-app-pub-3940256099942544/1033173712",
+	  "admobRewardUnit":"ca-app-pub-3940256099942544/5224354917",
+      "isUnityActive":false,
+      "unityInterstitialUnit":"Interstitial_Android"
+   }
+]
